@@ -1266,15 +1266,13 @@ footer {
 /* Full-screen responsive video section */
 .video-section {
     width: 100vw;
-    height: 100vh;
-    /* Full browser height */
+    height: 100vh; /* Full browser height */
     margin: 0;
     padding: 0;
     display: flex;
     justify-content: center;
     align-items: center;
-    background: #000;
-    /* Optional: black background for better view */
+    background: #000; /* Optional: black background for better view */
 }
 
 /* Iframe wrapper */
@@ -1297,7 +1295,9 @@ footer {
 /* Mobile adjustments */
 @media (max-width: 768px) {
     .video-section {
-        height: 50vh;
-        /* Half screen height for mobile */
+        height: 50vh; /* Half screen height for mobile */
     }
 }
+
+
+

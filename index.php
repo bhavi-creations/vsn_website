@@ -3,22 +3,18 @@
 
 
 
- <section class="video-section">
-    <div class="video-container">
-
-   
-        <div class="iframe-wrapper">
-            <iframe
-                src="https://www.youtube.com/embed/zNnqgH6UNFU?si=7QGBSOF0X5nVGpKP"
-                title="YouTube video player"
-                frameborder="0"
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                allowfullscreen>
-            </iframe>
-        </div>
-
+<section class="video-section">
+    <div class="iframe-wrapper">
+        <iframe
+            src="https://www.youtube.com/embed/zNnqgH6UNFU?si=7QGBSOF0X5nVGpKP"
+            title="YouTube video player"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            allowfullscreen>
+        </iframe>
     </div>
 </section>
+
 
 
 <!-- <section class="video-section">
