@@ -6,7 +6,7 @@
 <section class="video-section">
     <div class="iframe-wrapper">
         <iframe
-            src="https://www.youtube.com/embed/zNnqgH6UNFU?si=7QGBSOF0X5nVGpKP"
+            src="https://www.youtube.com/embed/zNnqgH6UNFU"
             title="YouTube video player"
             frameborder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
@@ -14,6 +14,7 @@
         </iframe>
     </div>
 </section>
+
 
 
 

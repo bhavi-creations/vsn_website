@@ -1265,21 +1265,22 @@ footer {
 /* iframe code   */
 /* Full-screen responsive video section */
 .video-section {
-    width: 100vw;
-    height: 100vh; /* Full browser height */
-    margin: 0;
-    padding: 0;
+    width: 100%;
+   
+    /* Full browser height */
     display: flex;
     justify-content: center;
     align-items: center;
-    background: #000; /* Optional: black background for better view */
+    background: #000;
 }
 
-/* Iframe wrapper */
+/* Iframe wrapper with responsive 16:9 aspect ratio */
 .iframe-wrapper {
     position: relative;
     width: 100%;
-    height: 100%;
+    height: 0;
+    padding-bottom: 56.25%;
+    /* 16:9 Aspect Ratio */
 }
 
 /* Iframe styling */
@@ -1292,12 +1293,10 @@ footer {
     border: 0;
 }
 
-/* Mobile adjustments */
+/* Optional: smaller height for mobile devices */
 @media (max-width: 768px) {
-    .video-section {
-        height: 50vh; /* Half screen height for mobile */
+    .iframe-wrapper {
+        padding-bottom: 56.25%;
+        /* keeps 16:9 ratio */
     }
 }
-
-
-
