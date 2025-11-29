@@ -704,8 +704,12 @@ background-color: #1e3a5f;
 /* Footer */
 footer {
     background: var(--dark-blue);
-    color: white;
+    /* color: white; */
+    color:  var(--primary-blue) !important;
     padding: 40px 0 20px;
+}
+.footer_about_section{
+    color:white !important;
 }
 
 .footer-links a {
@@ -1300,3 +1304,27 @@ footer {
         /* keeps 16:9 ratio */
     }
 }
+
+.footer_last_section a {
+    color: white !important;
+    text-decoration: none;
+}
+
+
+/* contact button  */
+.red-btn {
+    background-color: var(--dark-blue); 
+
+    /* background-color: #e63946;  */
+    color: white;
+}
+
+/* .green-btn {
+    background-color: #2a9d8f; 
+    color: white;
+} */
+
+/* .blue-btn {
+    background-color: #1d3557; 
+    color: white;
+} */

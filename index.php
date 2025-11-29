@@ -670,7 +670,9 @@
                         </div>
                         <input type="text" class="form-control" placeholder="Subject" required>
                         <textarea class="form-control" rows="5" placeholder="Your Message" required></textarea>
-                        <button type="submit" class="btn btn-custom w-100">Send Message</button>
+                        <!-- <button type="submit" class="btn btn-custom w-100">Send Message</button> -->
+                        <button type="submit" class="btn btn-custom w-100 red-btn">Send Message</button>
+
                     </form>
                 </div>
             </div>

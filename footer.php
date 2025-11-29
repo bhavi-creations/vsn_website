@@ -3,30 +3,26 @@
     <div class="container">
         <div class="row">
             <div class="col-md-4 mb-4">
-                <h5>About VSN</h5>
-                <p>Vision for Sustainable Nature is committed to creating a sustainable future through innovative renewable energy solutions and community empowerment.</p>
+            <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 200 80'%3E%3Ctext x='10' y='55' font-family='Arial Black' font-size='48' fill='%230099CC'%3EVSN%3C/text%3E%3Ccircle cx='100' cy='40' r='25' fill='none' stroke='%230099CC' stroke-width='3'/%3E%3Cpath d='M100 20 L110 35 L100 50 L90 35 Z' fill='%231e3a5f'/%3E%3Cpath d='M100 35 L115 40 L100 50 Z' fill='%23CC3333'/%3E%3C/svg%3E" alt="VSN Logo">
+
             </div>
             <div class="col-md-4 mb-4">
                 <h5>Quick Links</h5>
                 <div class="footer-links">
-                    <a href="#home">Home</a>
-                    <a href="#about">About Us</a>
-                    <a href="#gallery">Gallery</a>
-                    <a href="#contact">Contact Us</a>
+                    <a href="index.php">Home</a>
+                    <a href="about.php">About Us</a>
+                    <a href="gallery.php">Gallery</a>
+                    <a href="contact.php">Contact Us</a>
                 </div>
             </div>
             <div class="col-md-4 mb-4">
-                <h5>Newsletter</h5>
-                <p>Subscribe to get updates on our latest projects and initiatives.</p>
-                <div class="input-group">
-                    <input type="email" class="form-control" placeholder="Your email">
-                    <button class="btn btn-custom">Subscribe</button>
-                </div>
+            <h5>About VSN</h5>
+            <p class="footer_about_section">Vision for Sustainable Nature is committed to creating a sustainable future through innovative renewable energy solutions and community empowerment.</p>
             </div>
         </div>
         <hr style="border-color: rgba(255,255,255,0.1);">
         <div class="text-center pt-3">
-            <p>&copy; 2025 VSN - Vision for Sustainable Nature. All rights reserved.</p>
+            <p class="footer_last_section" >&copy; 2025 VSN - Vision for Sustainable Nature. All rights reserved  <a href="https://bhavicreations.com/">Bhavi Creations</a> </p>
         </div>
     </div>
 </footer>
