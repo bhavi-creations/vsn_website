@@ -69,7 +69,7 @@
                     <p class="mb-3">Dr. V. V. V. S. N expertise across multiple continents, shaping projects and initiatives worldwide.</p>
 
                     
-                            <span span class="dr-vvvsn-location-badge"><i class="fas fa-map-marker-alt me-1"></i> UAE - Abu Dhabi (Present)</span>
+                            <span span class="dr-vvvsn-location-badge d-flex justify-content-center px-1"><i class="fas fa-map-marker-alt me-1"></i> UAE - Abu Dhabi (Present)</span>
                          
 
 
