@@ -181,7 +181,7 @@
                         <div class="icon-box me-2">
                             <i class="fas fa-users"></i>
                         </div>
-                        <h4 class="text-color-about mb-0 ">Global Professional Network</h4>
+                        <h4 class="text-color-about mb-0 global_section">Global Professional Network</h4>
                     </div>
                     <!-- <h4 class="text-color-about mb-3">Global Professional Network</h4>
                     <p class="mb-4">Member of <strong>Tweel international professional bodies</strong> across

@@ -1736,8 +1736,13 @@ footer {
 
 .text-color-about {
     color: var(--primary-blue) !important;
-    margin-top: -20px;
+  
 }
+.global_section{
+  margin-top: -20px;
+
+}
+
 
 .dr-vvvsn-research-item span {
     color: white !important;
