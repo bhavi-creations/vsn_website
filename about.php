@@ -1,182 +1,276 @@
-<?php include 'header.php' ; ?>
+<?php include 'header.php'; ?>
 
 
-<div class="vsn-hero-wrapper">
-    <div class="vsn-floating-shapes">
-        <div class="vsn-shape-element"></div>
-        <div class="vsn-shape-element"></div>
-        <div class="vsn-shape-element"></div>
-        <div class="vsn-shape-element"></div>
+<!-- about section start  -->
+
+
+<!-- Hero Section -->
+<section class="dr-vvvsn-hero-banner">
+
+    <!-- <h1 class="d-flex justify-content-center about_section">about us</h1> -->
+    <div class="container dr-vvvsn-hero-wrapper">
+        <div class="row align-items-center">
+            <div class="col-lg-8">
+                <h1 class="display-4 fw-bold mb-3">Dr. V. V. V. S. N (promoter)</h1>
+                <p class="lead mb-4">Extraordinary Global Leader | Visionary Scientist | Strategic Innovator</p>
+                <p class="fs-5">An inspiring force across continents with unparalleled expertise in mega-scale
+                    global projects, sustainable development, and advanced energy systems.</p>
+            </div> 
+            <div class="col-lg-4 d-flex justify-content-center">
+                <!-- <div class="text-lg-end">
+                    <div class="dr-vvvsn-stats-display">
+                        <span class="dr-vvvsn-stats-value">290+</span>
+                        <span class="dr-vvvsn-stats-text">Billion USD Projects</span>
+                    </div>
+                </div> -->
+                <img src="./assets/images/about.png" alt="" style="border-radius:5px;">
+            </div>
+        </div>
     </div>
+</section>
 
-    <div class="vsn-main-container">
-        <div class="container">
-            <div class="vsn-header-section">
-                <h1 class="vsn-main-title">Vision for Sustainable Nature</h1>
-                <p class="vsn-subtitle-text">Pioneering Global Excellence in Sustainable Development and Innovation</p>
+<!-- Main Content -->
+<section class="py-5 about_new_section">
+    <div class="container">
+        <!-- Academic Excellence -->
+        <div class="row mb-5">
+            <div class="col-lg-12">
+                <h2 class="dr-vvvsn-section-heading">Academic Excellence & Early Achievement</h2>
             </div>
-
-            <div class="vsn-profile-showcase">
-                <div class="vsn-profile-header">
-                    <h2 class="vsn-doctor-name">Dr. V. V. S. N</h2>
-                    <p class="vsn-tagline">Extraordinary Global Leader | Sustainability Champion | Innovation Pioneer</p>
-                </div>
-                <section class="d-flex justify-content-center">
-                    <img src="./assets/images/about.png" alt="" class="img-fluid">
-                </section>
-
-                <div class="row">
-                    <div class="col-12">
-                        <p class="vsn-biography-text">
-                            An extraordinary global leader whose achievements continue to inspire people across continents.
-                            With five doctoral degrees, over 40 international higher qualifications, and a career in science that
-                            began at the remarkable age of 10, Dr. V. V. S. N has contributed expertise across India, USA, UK,
-                            Canada, Australia, and the UAE - Abu Dhabi. His exceptional leadership across USD 290+ billion global
-                            mega projects in Power Generation, Tourism Developments, Island developments for real estate, and Oil & Gas
-                            has significantly contributed to nation building, innovations, sustainable development, and advanced energy systems.
-                        </p>
+            <div class="col-lg-6 mb-4">
+                <div class="dr-vvvsn-content-card">
+                    <div class="dr-vvvsn-icon-container">
+                        <i class="fas fa-graduation-cap"></i>
                     </div>
-                </div>
-
-                <div class="vsn-stats-showcase">
-                    <div class="vsn-stat-item">
-                        <div class="vsn-stat-number">$290B+</div>
-                        <div class="vsn-stat-label">Global Mega Projects</div>
-                    </div>
-                    <div class="vsn-stat-item">
-                        <div class="vsn-stat-number">5</div>
-                        <div class="vsn-stat-label">Doctoral Degrees</div>
-                    </div>
-                    <div class="vsn-stat-item">
-                        <div class="vsn-stat-number">40+</div>
-                        <div class="vsn-stat-label">International Qualifications</div>
-                    </div>
-                    <div class="vsn-stat-item">
-                        <div class="vsn-stat-number">20+</div>
-                        <div class="vsn-stat-label">Excellence Awards</div>
-                    </div>
+                    <h4 class="text-color-about mb-3">Exceptional Qualifications</h4>
+                    <p class="mb-3">Dr. V. V. V. S. N holds an impressive academic portfolio that sets him apart in
+                        the global scientific community.</p>
+                    <ul class="list-unstyled">
+                        <li class="mb-2"><i class="fas fa-check-circle text-primary me-2"></i><strong>5 Doctoral
+                                Degrees</strong></li>
+                        <li class="mb-2"><i class="fas fa-check-circle text-primary me-2"></i><strong>40+
+                                International Higher Qualifications</strong></li>
+                        <li class="mb-2"><i class="fas fa-check-circle text-primary me-2"></i><strong>Career began
+                                at age 10</strong> in scientific research</li>
+                    </ul>
                 </div>
             </div>
-
-            <div class="vsn-info-grid">
-                <div class="vsn-info-card">
-                    <div class="vsn-card-icon">
-                        <i class="fas fa-trophy"></i>
+            <div class="col-lg-6 mb-4">
+                <div class="dr-vvvsn-content-card">
+                    <div class="dr-vvvsn-icon-container">
+                        <i class="fas fa-globe-americas"></i>
                     </div>
-                    <h3 class="vsn-card-title">Prestigious Global Honors</h3>
-                    <div class="vsn-card-content">
-                        <div class="vsn-badge-item">Icon of Asia Award - Oxford University</div>
-                        <div class="vsn-badge-item">Leadership Award - Harvard University</div>
-                        <div class="vsn-badge-item">Mahatma Gandhi Global Leadership Award</div>
-                        <div class="vsn-badge-item">Leadership Award - GRA, USA</div>
-                        <div class="vsn-badge-item">20 International Excellence Awards</div>
-                        <div class="vsn-badge-item">4 Nuclear Power Excellence Awards</div>
-                    </div>
-                </div>
-
-                <div class="vsn-info-card">
-                    <div class="vsn-card-icon">
-                        <i class="fas fa-industry"></i>
-                    </div>
-                    <h3 class="vsn-card-title">Global Expertise</h3>
-                    <div class="vsn-card-content">
-                        <p><strong>Power Generation:</strong> Advanced energy systems and nuclear power commercial operations</p>
-                        <p class="mt-3"><strong>Tourism & Real Estate:</strong> Island developments and mega constructions</p>
-                        <p class="mt-3"><strong>Oil & Gas:</strong> Strategic project leadership and innovations</p>
-                        <p class="mt-3"><strong>Countries:</strong> India, USA, UK, Canada, Australia, UAE - Abu Dhabi</p>
+                    <h4 class="text-color-about mb-3">Global Impact</h4>
+                    <p class="mb-3">Contributed expertise across multiple continents, shaping projects and
+                        initiatives worldwide.</p>
+                    <div>
+                        <span class="dr-vvvsn-location-badge"><i class="fas fa-map-marker-alt me-1"></i>
+                            India</span>
+                        <span class="dr-vvvsn-location-badge"><i class="fas fa-map-marker-alt me-1"></i> USA</span>
+                        <span class="dr-vvvsn-location-badge"><i class="fas fa-map-marker-alt me-1"></i> UK</span>
+                        <span class="dr-vvvsn-location-badge"><i class="fas fa-map-marker-alt me-1"></i>
+                            Canada</span>
+                        <span class="dr-vvvsn-location-badge"><i class="fas fa-map-marker-alt me-1"></i>
+                            Australia</span>
+                        <span class="dr-vvvsn-location-badge"><i class="fas fa-map-marker-alt me-1"></i> UAE - Abu
+                            Dhabi (Present)</span>
                     </div>
                 </div>
+            </div>
+        </div>
 
-                <div class="vsn-info-card">
-                    <div class="vsn-card-icon">
-                        <i class="fas fa-book"></i>
-                    </div>
-                    <h3 class="vsn-card-title">Publications & Research</h3>
-                    <div class="vsn-card-content">
-                        <p><strong>5 Books on Amazon & Kindle:</strong></p>
-                        <p>• Zero Bureaucracy<br>
-                            • Artificial Intelligence in Human Resource<br>
-                            • FinTech in Finance<br>
-                            • Target Operating Model (TOM) in Project Management<br>
-                            • Strategy in Project Management</p>
-                        <p class="mt-3"><strong>Research Articles:</strong> Google Scholar & Scopus indexed journals on FinTech transformation and efficient technology blending</p>
+        <!-- Expertise Areas -->
+        <div class="row mb-5">
+            <div class="col-lg-12">
+                <h2 class="dr-vvvsn-section-heading">Leadership & Expertise</h2>
+            </div>
+            <div class="col-lg-12 mb-4">
+                <div class="dr-vvvsn-content-card">
+                    <h4 class="text-color-about mb-4">Strategic Leadership in Mega Projects</h4>
+                    <p class="mb-4">Exceptional leadership across <strong>USD 290+ billion</strong> in global mega
+                        projects spanning multiple critical sectors:</p>
+                    <div class="text-center">
+                        <span class="dr-vvvsn-skill-tag"><i class="fas fa-bolt me-2"></i>Power Generation</span>
+                        <span class="dr-vvvsn-skill-tag"><i class="fas fa-umbrella-beach me-2"></i>Tourism
+                            Development</span>
+                        <span class="dr-vvvsn-skill-tag"><i class="fas fa-island-tropical me-2"></i>Island
+                            Development</span>
+                        <span class="dr-vvvsn-skill-tag"><i class="fas fa-building me-2"></i>Real Estate & Mega
+                            Constructions</span>
+                        <span class="dr-vvvsn-skill-tag"><i class="fas fa-oil-can me-2"></i>Oil & Gas</span>
+                        <span class="dr-vvvsn-skill-tag"><i class="fas fa-atom me-2"></i>Nuclear Power</span>
+                        <span class="dr-vvvsn-skill-tag"><i class="fas fa-leaf me-2"></i>Sustainable
+                            Development</span>
+                        <span class="dr-vvvsn-skill-tag"><i class="fas fa-lightbulb me-2"></i>Innovation</span>
                     </div>
                 </div>
+            </div>
+        </div>
 
-                <div class="vsn-info-card">
-                    <div class="vsn-card-icon">
+        <!-- Awards & Recognition -->
+        <div class="row mb-5">
+            <div class="col-lg-12">
+                <h2 class="dr-vvvsn-section-heading">Prestigious Global Honors</h2>
+            </div>
+            <div class="col-lg-6 mb-4">
+                <div class="dr-vvvsn-content-card">
+                    <h5 class="text-primary mb-3"><i class="fas fa-trophy me-2"></i>International Recognition</h5>
+                    <div class="dr-vvvsn-award-entry">
+                        <strong>Icon of Asia Award for FinTech</strong><br>
+                        <small class="text-muted">Oxford University, UK (2025)</small>
+                    </div>
+                    <div class="dr-vvvsn-award-entry">
+                        <strong>Leadership Award</strong><br>
+                        <small class="text-muted">Harvard University, USA</small>
+                    </div>
+                    <div class="dr-vvvsn-award-entry">
+                        <strong>Mahatma Gandhi Global Leadership Award</strong><br>
+                        <small class="text-muted">United Kingdom</small>
+                    </div>
+                    <div class="dr-vvvsn-award-entry">
+                        <strong>Leadership Award</strong><br>
+                        <small class="text-muted">GRA, USA</small>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6 mb-4">
+                <div class="dr-vvvsn-content-card">
+                    <h5 class="text-primary mb-3"><i class="fas fa-award me-2"></i>Additional Achievements</h5>
+                    <div class="dr-vvvsn-stats-display mb-3">
+                        <span class="dr-vvvsn-stats-value">20</span>
+                        <span class="dr-vvvsn-stats-text">International Excellence Awards</span>
+                    </div>
+                    <div class="dr-vvvsn-stats-display"
+                        style="background: linear-gradient(135deg, var(--primary-blue), var(--dark-blue));">
+                        <span class="dr-vvvsn-stats-value">4</span>
+                        <span class="dr-vvvsn-stats-text">Awards for Outstanding Contribution to Nuclear Power
+                            Commercial Operations</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Professional Membership -->
+        <div class="row mb-5">
+            <div class="col-lg-12">
+                <h2 class="dr-vvvsn-section-heading ">Professional Affiliations</h2>
+            </div>
+            <div class="col-lg-12">
+                <div class="info-card">
+                    <div class="icon-box">
                         <i class="fas fa-users"></i>
                     </div>
-                    <h3 class="vsn-card-title">Professional Network</h3>
-                    <div class="vsn-card-content">
-                        <p class="mb-3">Member of twelve international professional bodies spanning across:</p>
-                        <div class="vsn-badge-item">United States</div>
-                        <div class="vsn-badge-item">United Kingdom</div>
-                        <div class="vsn-badge-item">Canada</div>
-                        <div class="vsn-badge-item">Singapore</div>
-                        <div class="vsn-badge-item">Australia</div>
-                        <div class="vsn-badge-item">Scotland</div>
-                    </div>
-                </div>
-            </div>
-
-            <div class="vsn-vision-section">
-                <h2 class="vsn-vision-title">
-                    <i class="fas fa-leaf"></i> India's First Agri Solar Hybrid Project
-                </h2>
-
-                <div class="row">
-                    <div class="col-md-6">
-                        <div class="vsn-highlight-box">
-                            <h5 class="vsn-highlight-title">
-                                <i class="fas fa-bolt"></i> Project Capacity
-                            </h5>
-                            <p class="vsn-highlight-text">150 MW Solar Power + 20 TPD Biogas + Cultivation + 80 MW Wind Power</p>
+                    <h4 class="text-color-about mb-3">Global Professional Network</h4>
+                    <p class="mb-4">Member of <strong>Tweel international professional bodies</strong> across
+                        leading nations:</p>
+                    <div class="row text-center">
+                        <div class="col-md-2 col-4 mb-3">
+                            <div class="p-3 bg-light rounded">
+                                <i class="fas fa-flag-usa fa-2x text-primary mb-2"></i>
+                                <p class="mb-0 small fw-bold">USA</p>
+                            </div>
                         </div>
-
-                        <div class="vsn-highlight-box">
-                            <h5 class="vsn-highlight-title">
-                                <i class="fas fa-briefcase"></i> Employment Creation
-                            </h5>
-                            <p class="vsn-highlight-text">1,000 Direct Jobs & 2,000 Indirect Jobs with 90% skill-based positions, not academic qualifications</p>
+                        <div class="col-md-2 col-4 mb-3">
+                            <div class="p-3 bg-light rounded">
+                                <i class="fas fa-flag fa-2x text-primary mb-2"></i>
+                                <p class="mb-0 small fw-bold">UK</p>
+                            </div>
                         </div>
-
-                        <div class="vsn-highlight-box">
-                            <h5 class="vsn-highlight-title">
-                                <i class="fas fa-female"></i> Women Empowerment
-                            </h5>
-                            <p class="vsn-highlight-text">Employee-first policy with special focus on creating opportunities for women in the workforce</p>
+                        <div class="col-md-2 col-4 mb-3">
+                            <div class="p-3 bg-light rounded">
+                                <i class="fas fa-flag fa-2x text-primary mb-2"></i>
+                                <p class="mb-0 small fw-bold">Canada</p>
+                            </div>
                         </div>
-                    </div>
-
-                    <div class="col-md-6">
-                        <div class="vsn-highlight-box">
-                            <h5 class="vsn-highlight-title">
-                                <i class="fas fa-handshake"></i> Community Support
-                            </h5>
-                            <p class="vsn-highlight-text">Buyback agreements for bio grass and opportunities for local business people</p>
+                        <div class="col-md-2 col-4 mb-3">
+                            <div class="p-3 bg-light rounded">
+                                <i class="fas fa-flag fa-2x text-primary mb-2"></i>
+                                <p class="mb-0 small fw-bold">Singapore</p>
+                            </div>
                         </div>
-
-                        <div class="vsn-highlight-box">
-                            <h5 class="vsn-highlight-title">
-                                <i class="fas fa-graduation-cap"></i> Education & Training
-                            </h5>
-                            <p class="vsn-highlight-text">Establishment of training and development institutions, academic & research institutions</p>
+                        <div class="col-md-2 col-4 mb-3">
+                            <div class="p-3 bg-light rounded">
+                                <i class="fas fa-flag fa-2x text-primary mb-2"></i>
+                                <p class="mb-0 small fw-bold">Australia</p>
+                            </div>
                         </div>
-
-                        <div class="vsn-highlight-box">
-                            <h5 class="vsn-highlight-title">
-                                <i class="fas fa-dollar-sign"></i> Investment
-                            </h5>
-                            <p class="vsn-highlight-text">USD 150 million with potential expansion to USD 2 billion</p>
-                            <p class="vsn-highlight-text mt-2"><strong>Location:</strong> Andhra Pradesh, India</p>
+                        <div class="col-md-2 col-4 mb-3">
+                            <div class="p-3 bg-light rounded">
+                                <i class="fas fa-flag fa-2x text-primary mb-2"></i>
+                                <p class="mb-0 small fw-bold">Scotland</p>
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
+
+        <!-- Publications -->
+        <div class="row mb-5">
+            <div class="col-lg-12">
+                <h2 class="dr-vvvsn-section-heading">Publications & Research</h2>
+            </div>
+            <div class="col-lg-6 mb-4">
+                <div class="dr-vvvsn-content-card">
+                    <h5 class="text-primary mb-3"><i class="fas fa-book me-2"></i>Books (Available on Amazon &
+                        Kindle)</h5>
+                    <div class="dr-vvvsn-research-item">
+                        <i class="fas fa-book-open text-primary me-2"></i>
+                        <strong>Zero Bureaucracy</strong>
+                    </div>
+                    <div class="dr-vvvsn-research-item">
+                        <i class="fas fa-book-open text-primary me-2"></i>
+                        <strong>Artificial Intelligence in Human Resource</strong>
+                    </div>
+                    <div class="dr-vvvsn-research-item">
+                        <i class="fas fa-book-open text-primary me-2"></i>
+                        <strong>FinTech in Finance</strong>
+                    </div>
+                    <div class="dr-vvvsn-research-item">
+                        <i class="fas fa-book-open text-primary me-2"></i>
+                        <strong>Target Operating Model (TOM) in Project Management</strong>
+                    </div>
+                    <div class="dr-vvvsn-research-item">
+                        <i class="fas fa-book-open text-primary me-2"></i>
+                        <strong>Strategy in Project Management</strong>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6 mb-4">
+                <div class="dr-vvvsn-content-card">
+                    <h5 class="text-primary mb-3"><i class="fas fa-file-alt me-2"></i>Research Articles</h5>
+                    <p class="mb-3">Published in <strong>Google Scholar</strong> and <strong>Scopus</strong> indexed
+                        journals:</p>
+                    <div class="dr-vvvsn-research-item">
+                        <h6 class="text-color-about mb-2">Technological Transformation of Transactions by FINTECH</h6>
+                        <span class="badge bg-secondary">Scopus Indexed</span>
+                    </div>
+                    <div class="dr-vvvsn-research-item">
+                        <h6 class="text-color-about mb-2">Making the Fintech Powerful by Blending of Efficient Technologies
+                            and Fusing into Fintech</h6>
+                        <span class="badge bg-secondary">Google Scholar</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Legacy Statement -->
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="dr-vvvsn-content-card text-center" style="border-left: 4px solid var(--accent-red);">
+                    <h3 class="text-color-about  mb-4">A Legacy of Excellence</h3>
+                    <p class="lead mb-0">Dr. V. V. V. S. N stands among the world's most accomplished professionals.
+                        His strategic insights and project expertise have significantly contributed to
+                        <strong>nation building, innovations, sustainable development, and advanced energy
+                            systems</strong> across the globe.
+                    </p>
+                </div>
+            </div>
+        </div>
     </div>
-</div>
+</section>
+
+<!-- about section end -->
 
 
-<?php include 'footer.php' ;?>
+<?php include 'footer.php'; ?>

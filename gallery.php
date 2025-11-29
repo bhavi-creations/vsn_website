@@ -12,7 +12,8 @@
                 <div class="gallery-item" onclick="openModal(0)">
                     <div class="image-wrapper">
                         <div class="image-placeholder">
-                            <i class="fas fa-trophy placeholder-icon"></i>
+                            <!-- <i class="fas fa-trophy placeholder-icon"></i> -->
+                             <img src="./assets/images/1.png" alt="" style="height:700px  !important ">
                         </div>
                         <div class="overlay">
                             <span class="overlay-category">International Recognition</span>
@@ -26,7 +27,8 @@
                 <div class="gallery-item" onclick="openModal(1)">
                     <div class="image-wrapper">
                         <div class="image-placeholder">
-                            <i class="fas fa-medal placeholder-icon"></i>
+                            <!-- <i class="fas fa-medal placeholder-icon"></i> -->
+                            <img src="./assets/images/1.png" alt="">
                         </div>
                         <div class="overlay">
                             <span class="overlay-category">Global Honor</span>
@@ -40,7 +42,8 @@
                 <div class="gallery-item" onclick="openModal(2)">
                     <div class="image-wrapper">
                         <div class="image-placeholder">
-                            <i class="fas fa-award placeholder-icon"></i>
+                            <!-- <i class="fas fa-award placeholder-icon"></i> -->
+                            <img src="./assets/images/1.png" alt="">
                         </div>
                         <div class="overlay">
                             <span class="overlay-category">Distinguished Awards</span>
@@ -54,7 +57,8 @@
                 <div class="gallery-item" onclick="openModal(3)">
                     <div class="image-wrapper">
                         <div class="image-placeholder">
-                            <i class="fas fa-solar-panel placeholder-icon"></i>
+                            <!-- <i class="fas fa-solar-panel placeholder-icon"></i> -->
+                            <img src="./assets/images/1.png" alt="">
                         </div>
                         <div class="overlay">
                             <span class="overlay-category">Mega Project</span>
@@ -68,7 +72,8 @@
                 <div class="gallery-item" onclick="openModal(4)">
                     <div class="image-wrapper">
                         <div class="image-placeholder">
-                            <i class="fas fa-book-open placeholder-icon"></i>
+                            <!-- <i class="fas fa-book-open placeholder-icon"></i> -->
+                            <img src="./assets/images/1.png" alt="">
                         </div>
                         <div class="overlay">
                             <span class="overlay-category">Publication</span>
@@ -82,7 +87,8 @@
                 <div class="gallery-item" onclick="openModal(5)">
                     <div class="image-wrapper">
                         <div class="image-placeholder">
-                            <i class="fas fa-atom placeholder-icon"></i>
+                        <img src="./assets/images/1.png" alt="">
+                            <!-- <i class="fas fa-atom placeholder-icon"></i> -->
                         </div>
                         <div class="overlay">
                             <span class="overlay-category">Nuclear Excellence</span>
@@ -96,7 +102,8 @@
                 <div class="gallery-item" onclick="openModal(6)">
                     <div class="image-wrapper">
                         <div class="image-placeholder">
-                            <i class="fas fa-charging-station placeholder-icon"></i>
+                        <img src="./assets/images/1.png" alt="">
+                            <!-- <i class="fas fa-charging-station placeholder-icon"></i> -->
                         </div>
                         <div class="overlay">
                             <span class="overlay-category">Power Generation</span>
@@ -110,7 +117,8 @@
                 <div class="gallery-item" onclick="openModal(7)">
                     <div class="image-wrapper">
                         <div class="image-placeholder">
-                            <i class="fas fa-lightbulb placeholder-icon"></i>
+                        <img src="./assets/images/1.png" alt="">
+                            <!-- <i class="fas fa-lightbulb placeholder-icon"></i> -->
                         </div>
                         <div class="overlay">
                             <span class="overlay-category">Vision 2030</span>
@@ -124,7 +132,8 @@
                 <div class="gallery-item" onclick="openModal(8)">
                     <div class="image-wrapper">
                         <div class="image-placeholder">
-                            <i class="fas fa-building placeholder-icon"></i>
+                        <img src="./assets/images/1.png" alt="">
+                            <!-- <i class="fas fa-building placeholder-icon"></i> -->
                         </div>
                         <div class="overlay">
                             <span class="overlay-category">Real Estate</span>
@@ -138,7 +147,8 @@
                 <div class="gallery-item" onclick="openModal(9)">
                     <div class="image-wrapper">
                         <div class="image-placeholder">
-                            <i class="fas fa-file-alt placeholder-icon"></i>
+                        <img src="./assets/images/1.png" alt="">
+                            <!-- <i class="fas fa-file-alt placeholder-icon"></i> -->
                         </div>
                         <div class="overlay">
                             <span class="overlay-category">Research</span>
@@ -152,7 +162,8 @@
                 <div class="gallery-item" onclick="openModal(10)">
                     <div class="image-wrapper">
                         <div class="image-placeholder">
-                            <i class="fas fa-users placeholder-icon"></i>
+                        <img src="./assets/images/1.png" alt="">
+                            <!-- <i class="fas fa-users placeholder-icon"></i> -->
                         </div>
                         <div class="overlay">
                             <span class="overlay-category">Women Empowerment</span>
@@ -166,7 +177,8 @@
                 <div class="gallery-item" onclick="openModal(11)">
                     <div class="image-wrapper">
                         <div class="image-placeholder">
-                            <i class="fas fa-graduation-cap placeholder-icon"></i>
+                        <img src="./assets/images/1.png" alt="">
+                            <!-- <i class="fas fa-graduation-cap placeholder-icon"></i> -->
                         </div>
                         <div class="overlay">
                             <span class="overlay-category">Education</span>

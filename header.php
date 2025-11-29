@@ -19,7 +19,7 @@
     <nav class="navbar navbar-expand-lg  fixed-top">
         <div class="container">
             <a class="navbar-brand" href="index.php">
-            <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 200 80'%3E%3Ctext x='10' y='55' font-family='Arial Black' font-size='48' fill='%230099CC'%3EVSN%3C/text%3E%3Ccircle cx='100' cy='40' r='25' fill='none' stroke='%230099CC' stroke-width='3'/%3E%3Cpath d='M100 20 L110 35 L100 50 L90 35 Z' fill='%231e3a5f'/%3E%3Cpath d='M100 35 L115 40 L100 50 Z' fill='%23CC3333'/%3E%3C/svg%3E" alt="VSN Logo">
+            <img src="./assets/images/VSN_logo.png" alt="VSN Logo">
 
             </a>
 
