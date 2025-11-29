@@ -11,11 +11,11 @@
     <div class="container dr-vvvsn-hero-wrapper">
         <div class="row align-items-center">
             <div class="col-lg-8">
-                <h1 class="display-4 fw-bold mb-3">Dr. V. V. V. S. N (promoter)</h1>
-                <p class="lead mb-4">Extraordinary Global Leader | Visionary Scientist | Strategic Innovator</p>
+                <h1 class=" dr-vvvsn-section-heading">Dr. V. V. V. S. N (promoter)</h1>
+                <p class="lead mb-4"> Global Leader, Visionary Scientist, Strategic Innovator</p>
                 <p class="fs-5">An inspiring force across continents with unparalleled expertise in mega-scale
                     global projects, sustainable development, and advanced energy systems.</p>
-            </div> 
+            </div>
             <div class="col-lg-4 d-flex justify-content-center">
                 <!-- <div class="text-lg-end">
                     <div class="dr-vvvsn-stats-display">
@@ -35,60 +35,62 @@
         <!-- Academic Excellence -->
         <div class="row mb-5">
             <div class="col-lg-12">
-                <h2 class="dr-vvvsn-section-heading">Academic Excellence & Early Achievement</h2>
+                <h2 class="dr-vvvsn-section-heading">About The Promoter</h2>
             </div>
             <div class="col-lg-6 mb-4">
                 <div class="dr-vvvsn-content-card">
-                    <div class="dr-vvvsn-icon-container">
-                        <i class="fas fa-graduation-cap"></i>
+                    <div class="d-flex align-items-center mb-3">
+                        <div class="dr-vvvsn-icon-container me-2">
+                            <i class="fas fa-graduation-cap"></i>
+                        </div>
+                        <h4 class="text-color-about mb-0">Exceptional Qualifications</h4>
                     </div>
-                    <h4 class="text-color-about mb-3">Exceptional Qualifications</h4>
+
                     <p class="mb-3">Dr. V. V. V. S. N holds an impressive academic portfolio that sets him apart in
                         the global scientific community.</p>
+
                     <ul class="list-unstyled">
-                        <li class="mb-2"><i class="fas fa-check-circle text-primary me-2"></i><strong>5 Doctoral
-                                Degrees</strong></li>
-                        <li class="mb-2"><i class="fas fa-check-circle text-primary me-2"></i><strong>40+
-                                International Higher Qualifications</strong></li>
-                        <li class="mb-2"><i class="fas fa-check-circle text-primary me-2"></i><strong>Career began
-                                at age 10</strong> in scientific research</li>
+                        <li class="mb-2"><i class="fas fa-check-circle text-primary me-2"></i>5 Doctoral Degrees</li>
+                        <li class="mb-2"><i class="fas fa-check-circle text-primary me-2"></i>40+ International Higher Qualifications></li>
+                        <li class="mb-2"><i class="fas fa-check-circle text-primary me-2"></i>working at the age of 10 years</li>
                     </ul>
                 </div>
             </div>
+
             <div class="col-lg-6 mb-4">
                 <div class="dr-vvvsn-content-card">
-                    <div class="dr-vvvsn-icon-container">
-                        <i class="fas fa-globe-americas"></i>
+                    <div class="d-flex align-items-center mb-3">
+                        <div class="dr-vvvsn-icon-container me-2">
+                            <i class="fas fa-globe-americas"></i>
+                        </div>
+                        <h4 class="text-color-about mb-0">Global Impact</h4>
                     </div>
-                    <h4 class="text-color-about mb-3">Global Impact</h4>
-                    <p class="mb-3">Contributed expertise across multiple continents, shaping projects and
-                        initiatives worldwide.</p>
+
+                    <p class="mb-3">Dr. V. V. V. S. N expertise across multiple continents, shaping projects and initiatives worldwide.</p>
+                    <span class="dr-vvvsn-location-badge "><i class="fas fa-map-marker-alt me-1 "></i> UAE - Abu Dhabi (Present)</span>
                     <div>
-                        <span class="dr-vvvsn-location-badge"><i class="fas fa-map-marker-alt me-1"></i>
-                            India</span>
+                        <span class="dr-vvvsn-location-badge"><i class="fas fa-map-marker-alt me-1"></i> India</span>
                         <span class="dr-vvvsn-location-badge"><i class="fas fa-map-marker-alt me-1"></i> USA</span>
                         <span class="dr-vvvsn-location-badge"><i class="fas fa-map-marker-alt me-1"></i> UK</span>
-                        <span class="dr-vvvsn-location-badge"><i class="fas fa-map-marker-alt me-1"></i>
-                            Canada</span>
-                        <span class="dr-vvvsn-location-badge"><i class="fas fa-map-marker-alt me-1"></i>
-                            Australia</span>
-                        <span class="dr-vvvsn-location-badge"><i class="fas fa-map-marker-alt me-1"></i> UAE - Abu
-                            Dhabi (Present)</span>
+                        <span class="dr-vvvsn-location-badge"><i class="fas fa-map-marker-alt me-1"></i> Canada</span>
+                        <span class="dr-vvvsn-location-badge"><i class="fas fa-map-marker-alt me-1"></i> Australia</span>
+
                     </div>
                 </div>
             </div>
+
         </div>
 
         <!-- Expertise Areas -->
         <div class="row mb-5">
             <div class="col-lg-12">
-                <h2 class="dr-vvvsn-section-heading">Leadership & Expertise</h2>
+                <!-- <h2 class="dr-vvvsn-section-heading">Leadership & Expertise</h2> -->
             </div>
             <div class="col-lg-12 mb-4">
                 <div class="dr-vvvsn-content-card">
-                    <h4 class="text-color-about mb-4">Strategic Leadership in Mega Projects</h4>
-                    <p class="mb-4">Exceptional leadership across <strong>USD 290+ billion</strong> in global mega
-                        projects spanning multiple critical sectors:</p>
+                    <h4 class="text-color-about mb-4">Strategic Leadership in Mega Projects-USD 290+ billion</h4>
+                    <!-- <p class="mb-4">Exceptional leadership across <strong></strong> in global mega
+                        projects spanning multiple critical sectors:</p> -->
                     <div class="text-center">
                         <span class="dr-vvvsn-skill-tag"><i class="fas fa-bolt me-2"></i>Power Generation</span>
                         <span class="dr-vvvsn-skill-tag"><i class="fas fa-umbrella-beach me-2"></i>Tourism
@@ -110,10 +112,11 @@
         <!-- Awards & Recognition -->
         <div class="row mb-5">
             <div class="col-lg-12">
-                <h2 class="dr-vvvsn-section-heading">Prestigious Global Honors</h2>
+                <!-- <h2 class="dr-vvvsn-section-heading">Prestigious Global Honors</h2> -->
             </div>
-            <div class="col-lg-6 mb-4">
-                <div class="dr-vvvsn-content-card">
+
+            <div class="col-lg-6 mb-4 d-flex">
+                <div class="dr-vvvsn-content-card flex-fill d-flex flex-column h-100">
                     <h5 class="text-primary mb-3"><i class="fas fa-trophy me-2"></i>International Recognition</h5>
                     <div class="dr-vvvsn-award-entry">
                         <strong>Icon of Asia Award for FinTech</strong><br>
@@ -133,36 +136,40 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-6 mb-4">
-                <div class="dr-vvvsn-content-card">
+
+            <div class="col-lg-6 mb-4 d-flex">
+                <div class="dr-vvvsn-content-card flex-fill d-flex flex-column h-100">
                     <h5 class="text-primary mb-3"><i class="fas fa-award me-2"></i>Additional Achievements</h5>
                     <div class="dr-vvvsn-stats-display mb-3">
                         <span class="dr-vvvsn-stats-value">20</span>
                         <span class="dr-vvvsn-stats-text">International Excellence Awards</span>
                     </div>
-                    <div class="dr-vvvsn-stats-display"
+                    <div class="dr-vvvsn-stats-display flex-fill"
                         style="background: linear-gradient(135deg, var(--primary-blue), var(--dark-blue));">
-                        <span class="dr-vvvsn-stats-value">4</span>
-                        <span class="dr-vvvsn-stats-text">Awards for Outstanding Contribution to Nuclear Power
-                            Commercial Operations</span>
+                        <span class="dr-vvvsn-stats-value">25</span>
+                        <span class="dr-vvvsn-stats-text">Outstanding exceptional awards in power companies</span>
                     </div>
                 </div>
             </div>
         </div>
 
+
         <!-- Professional Membership -->
         <div class="row mb-5">
             <div class="col-lg-12">
-                <h2 class="dr-vvvsn-section-heading ">Professional Affiliations</h2>
+                <!-- <h2 class="dr-vvvsn-section-heading ">Professional Affiliations</h2> -->
             </div>
             <div class="col-lg-12">
                 <div class="info-card">
-                    <div class="icon-box">
-                        <i class="fas fa-users"></i>
+                    <div class="d-flex align-items-center mb-3">
+                        <div class="icon-box me-2">
+                            <i class="fas fa-users"></i>
+                        </div>
+                        <h4 class="text-color-about mb-0">Global Professional Network</h4>
                     </div>
-                    <h4 class="text-color-about mb-3">Global Professional Network</h4>
+                    <!-- <h4 class="text-color-about mb-3">Global Professional Network</h4>
                     <p class="mb-4">Member of <strong>Tweel international professional bodies</strong> across
-                        leading nations:</p>
+                        leading nations:</p> -->
                     <div class="row text-center">
                         <div class="col-md-2 col-4 mb-3">
                             <div class="p-3 bg-light rounded">
@@ -208,7 +215,7 @@
         <!-- Publications -->
         <div class="row mb-5">
             <div class="col-lg-12">
-                <h2 class="dr-vvvsn-section-heading">Publications & Research</h2>
+                <!-- <h2 class="dr-vvvsn-section-heading">Publications & Research</h2> -->
             </div>
             <div class="col-lg-6 mb-4">
                 <div class="dr-vvvsn-content-card">

@@ -65,225 +65,259 @@
 
 
             <div class="container vsn-section">
-                <div class="section-title d-flex justify-content-center">
+                <!-- <div class="section-title d-flex justify-content-center">
 
-                    <h1 class="vsn-main-title">Vision for Sustainable Nature</h1>
-                </div>
+                    <h1 class="vsn-main-title"> <span class="vsn_content">V</span>ision for <span class="vsn_content">S</span>ustainable <span class="vsn_content"> N</span>ature</h1>
+                </div> -->
 
-                <div class="row align-items-center my-4">
-                    <div class="col-lg-6 mb-4 mb-lg-0">
-                        <div class="vsn-header-section">
-                            <i class="fas fa-solar-panel decorative-icon icon-1"></i>
-                            <i class="fas fa-leaf decorative-icon icon-2"></i>
+                <div class="row align-items-stretch my-4">
+
+                    <!-- Content Column -->
+                    <div class="col-lg-6 mb-4 mb-lg-0 d-flex">
+                        <div class="vsn-header-section flex-fill d-flex flex-column justify-content-center">
+                            <!-- Heading above the paragraph -->
+                            <h1 class="vsn-main-title mb-3">
+                                <span class="vsn_content">V</span>ision for
+                                <span class="vsn_content">S</span>ustainable
+                                <span class="vsn_content">N</span>ature
+                            </h1>
+
+                            <!-- Paragraph content -->
                             <p class="vsn-subtitle-text">
-                                To build India's most advanced hybrid renewable-energy ecosystem by integrating solar, wind, and biogas with sustainable agriculture—empowering rural communities, strengthening energy security, and driving long-term environmental and economic prosperity.
+                                To build India's most advanced hybrid renewable energy ecosystem by integrating solar, wind, and biogas with sustainable agriculture—empowering rural communities, strengthening energy security, and driving long-term environmental and economic prosperity.
                             </p>
                         </div>
                     </div>
 
-                    <div class="col-lg-6">
-                        <div class="iframe-wrapper">
-
-                            <iframe width="560" height="315"
-                                src="https://www.youtube.com/embed/c9_zjx53bDQ?si=a6BI2qYfJVF946HR&loop=1&playlist=c9_zjx53bDQ&autoplay=1"
+                    <!-- Video Column -->
+                    <div class="col-lg-6 d-flex">
+                        <div class="iframe-wrapper flex-fill d-flex align-items-center">
+                            <iframe
+                                src="https://www.youtube.com/embed/c9_zjx53bDQ?autoplay=1&mute=1&loop=1&playlist=c9_zjx53bDQ"
                                 title="YouTube video player"
                                 frameborder="0"
                                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                                 referrerpolicy="strict-origin-when-cross-origin"
                                 allowfullscreen>
                             </iframe>
-
                         </div>
                     </div>
                 </div>
-            </div>
 
 
-            <section class="mission-section">
-                <div class="container">
-                    <div class="text-center mb-5">
-                        <h2 class="section-title display-5">MISSION STATEMENT</h2>
+
+                <!-- <div class="row align-items-center my-4">
+                    <div class="col-lg-6 mb-4 mb-lg-0">
+                        <div class="vsn-header-section">
+                            <i class="fas fa-solar-panel decorative-icon icon-1"></i>
+                            <i class="fas fa-leaf decorative-icon icon-2"></i>
+                            <p class="vsn-subtitle-text">
+                                To build India's most advanced hybrid renewable-energy ecosystem by integrating solar, wind, and biogas with sustainable agriculture empowering rural communities, strengthening energy security, and driving long-term environmental and economic prosperity.
+                            </p>
+                        </div>
                     </div>
 
-                    <div class="row g-4">
-                        <div class="col-lg-4 col-md-6">
-                            <div class="mission-card">
-                                <div class="mission-icon">
-                                    <i class="fas fa-solar-panel"></i>
-                                </div>
-                                <h4 class="mb-3">World-Class Energy Assets</h4>
-                                <p>Develop and operate <span class="highlight-text">150 MW Solar</span>, <span class="highlight-text">80 MW Wind</span>, and <span class="highlight-text">20 TPD Biogas</span> plants with cutting-edge technology.</p>
-                            </div>
+                    <div class="col-lg-6">
+                        <div class="iframe-wrapper">
+                            <iframe width="560" height="315"
+                                src="https://www.youtube.com/embed/c9_zjx53bDQ?autoplay=1&mute=1&loop=1&playlist=c9_zjx53bDQ"
+                                title="YouTube video player"
+                                frameborder="0"
+                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                                referrerpolicy="strict-origin-when-cross-origin"
+                                allowfullscreen>
+                            </iframe>
                         </div>
 
-                        <div class="col-lg-4 col-md-6">
-                            <div class="mission-card">
-                                <div class="mission-icon">
-                                    <i class="fas fa-leaf"></i>
-                                </div>
-                                <h4 class="mb-3">Agrivoltaics & Biomass</h4>
-                                <p>Promote dual land use through agrivoltaics and biomass cultivation, maximizing productivity while generating clean energy.</p>
-                            </div>
-                        </div>
-
-                        <div class="col-lg-4 col-md-6">
-                            <div class="mission-card">
-                                <div class="mission-icon">
-                                    <i class="fas fa-handshake"></i>
-                                </div>
-                                <h4 class="mb-3">Farmer Buy-Back Programme</h4>
-                                <p>Establish assured income for farmers through Napier grass and biomass buy-back, ensuring sustainable feedstock supply.</p>
-                            </div>
-                        </div>
-
-                        <div class="col-lg-4 col-md-6">
-                            <div class="mission-card">
-                                <div class="mission-icon">
-                                    <i class="fas fa-users"></i>
-                                </div>
-                                <h4 class="mb-3">Rural Employment</h4>
-                                <p>Generate large-scale rural employment, skill development, and foster inclusive community growth across regions.</p>
-                            </div>
-                        </div>
-
-                        <div class="col-lg-4 col-md-6">
-                            <div class="mission-card">
-                                <div class="mission-icon">
-                                    <i class="fas fa-microchip"></i>
-                                </div>
-                                <h4 class="mb-3">Green Technology</h4>
-                                <p>Adopt innovative green technologies, digital automation, and efficient waste-to-energy solutions for optimal performance.</p>
-                            </div>
-                        </div>
-
-                        <div class="col-lg-4 col-md-6">
-                            <div class="mission-card">
-                                <div class="mission-icon">
-                                    <i class="fas fa-globe-asia"></i>
-                                </div>
-                                <h4 class="mb-3">National Impact</h4>
-                                <p>Contribute to India's clean-energy transition, carbon reduction targets, and sustainable development goals.</p>
-                            </div>
-                        </div>
                     </div>
                 </div>
-            </section>
+            </div> -->
 
-            <!-- Stats Section -->
-            <section class="py-5">
-                <div class="container">
-                    <div class="row g-4">
-                        <div class="col-lg-3 col-md-6">
-                            <div class="stats-box">
-                                <div class="stats-number">150</div>
-                                <div class="stats-label">MW Solar Capacity</div>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-md-6">
-                            <div class="stats-box">
-                                <div class="stats-number">80</div>
-                                <div class="stats-label">MW Wind Capacity</div>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-md-6">
-                            <div class="stats-box">
-                                <div class="stats-number">20</div>
-                                <div class="stats-label">TPD Biogas Plant</div>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-md-6">
-                            <div class="stats-box">
-                                <div class="stats-number">3,500+</div>
-                                <div class="stats-label">Jobs Created</div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
 
-            <!-- Goals Section -->
-            <section class="goals-section">
-                <div class="container">
-                    <div class="text-center mb-5">
-                        <h2 class="section-title display-5">STRATEGIC GOALS</h2>
-                        <p class="lead text-muted">Six pillars driving our renewable energy revolution</p>
-                    </div>
+                <section class="mission-section">
+                    <div class="container">
+                        <div class="text-center mb-5">
+                            <h2 class="section-title display-5">MISSION STATEMENT</h2>
+                        </div>
 
-                    <div class="row">
-                        <div class="col-lg-6">
-                            <div class="goal-item">
-                                <span class="goal-number">1</span>
-                                <div class="d-inline-block" style="width: calc(100% - 60px); vertical-align: top;">
-                                    <h5 class="goal-title">Green Energy Generation</h5>
-                                    <ul class="bullet-list list-unstyled ms-4">
-                                        <li>Commission 150 MW solar, 80 MW wind, and 20 TPD biogas facility</li>
-                                        <li>Ensure reliable, efficient, and environmentally responsible power supply</li>
-                                    </ul>
+                        <div class="row g-4">
+                            <div class="col-lg-4 col-md-6">
+                                <div class="mission-card">
+                                    <div class="mission-icon">
+                                        <i class="fas fa-solar-panel"></i>
+                                    </div>
+                                    <h4 class="mb-3">World-Class Energy Assets</h4>
+                                    <p>Develop and operate <span class="highlight-text">150 MW Solar</span>, <span class="highlight-text">80 MW Wind</span>, and <span class="highlight-text">20 TPD Biogas</span> plants with cutting-edge technology.</p>
                                 </div>
                             </div>
 
-                            <div class="goal-item">
-                                <span class="goal-number">2</span>
-                                <div class="d-inline-block" style="width: calc(100% - 60px); vertical-align: top;">
-                                    <h5 class="goal-title">Sustainable Agriculture & Biomass</h5>
-                                    <ul class="bullet-list list-unstyled ms-4">
-                                        <li>Cultivate Napier grass and energy crops on project and contract-farming land</li>
-                                        <li>Implement Buy-Back Assurance Scheme for guaranteed biomass procurement</li>
-                                        <li>Provide farmers with superior seedlings, training, and technical support</li>
-                                    </ul>
+                            <div class="col-lg-4 col-md-6">
+                                <div class="mission-card">
+                                    <div class="mission-icon">
+                                        <i class="fas fa-leaf"></i>
+                                    </div>
+                                    <h4 class="mb-3">Agrivoltaics & Biomass</h4>
+                                    <p>Promote dual land use through agrivoltaics and biomass cultivation, maximizing productivity while generating clean energy.</p>
                                 </div>
                             </div>
 
-                            <div class="goal-item">
-                                <span class="goal-number">3</span>
-                                <div class="d-inline-block" style="width: calc(100% - 60px); vertical-align: top;">
-                                    <h5 class="goal-title">Rural Development & Social Impact</h5>
-                                    <ul class="bullet-list list-unstyled ms-4">
-                                        <li>Create 1,000+ direct and 2,500+ indirect jobs</li>
-                                        <li>Increase farmer income through biomass purchase agreements</li>
-                                        <li>Promote rural entrepreneurship and community development</li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="col-lg-6">
-                            <div class="goal-item">
-                                <span class="goal-number">4</span>
-                                <div class="d-inline-block" style="width: calc(100% - 60px); vertical-align: top;">
-                                    <h5 class="goal-title">Technology & Innovation</h5>
-                                    <ul class="bullet-list list-unstyled ms-4">
-                                        <li>Deploy automation, AI-based monitoring, and smart-grid integration</li>
-                                        <li>Maintain high performance ratios and >95% operational uptime</li>
-                                    </ul>
+                            <div class="col-lg-4 col-md-6">
+                                <div class="mission-card">
+                                    <div class="mission-icon">
+                                        <i class="fas fa-handshake"></i>
+                                    </div>
+                                    <h4 class="mb-3">Farmer Buy-Back Programme</h4>
+                                    <p>Establish assured income for farmers through Napier grass and biomass buy-back, ensuring sustainable feedstock supply.</p>
                                 </div>
                             </div>
 
-                            <div class="goal-item">
-                                <span class="goal-number">5</span>
-                                <div class="d-inline-block" style="width: calc(100% - 60px); vertical-align: top;">
-                                    <h5 class="goal-title">Economic & Financial Growth</h5>
-                                    <ul class="bullet-list list-unstyled ms-4">
-                                        <li>Build scalable model with strong IRR, NPV, and DSCR</li>
-                                        <li>Expand hybrid energy and biomass model to multiple states</li>
-                                    </ul>
+                            <div class="col-lg-4 col-md-6">
+                                <div class="mission-card">
+                                    <div class="mission-icon">
+                                        <i class="fas fa-users"></i>
+                                    </div>
+                                    <h4 class="mb-3">Rural Employment</h4>
+                                    <p>Generate large-scale rural employment, skill development, and foster inclusive community growth across regions.</p>
                                 </div>
                             </div>
 
-                            <div class="goal-item">
-                                <span class="goal-number">6</span>
-                                <div class="d-inline-block" style="width: calc(100% - 60px); vertical-align: top;">
-                                    <h5 class="goal-title">Environmental Stewardship</h5>
-                                    <ul class="bullet-list list-unstyled ms-4">
-                                        <li>Reduce carbon emissions through integrated renewable solutions</li>
-                                        <li>Promote soil health, water conservation, and responsible land management</li>
-                                    </ul>
+                            <div class="col-lg-4 col-md-6">
+                                <div class="mission-card">
+                                    <div class="mission-icon">
+                                        <i class="fas fa-microchip"></i>
+                                    </div>
+                                    <h4 class="mb-3">Green Technology</h4>
+                                    <p>Adopt innovative green technologies, digital automation, and efficient waste-to-energy solutions for optimal performance.</p>
+                                </div>
+                            </div>
+
+                            <div class="col-lg-4 col-md-6">
+                                <div class="mission-card">
+                                    <div class="mission-icon">
+                                        <i class="fas fa-globe-asia"></i>
+                                    </div>
+                                    <h4 class="mb-3">National Impact</h4>
+                                    <p>Contribute to India's clean-energy transition, carbon reduction targets, and sustainable development goals.</p>
                                 </div>
                             </div>
                         </div>
                     </div>
-                </div>
-            </section>
+                </section>
+
+                <!-- Stats Section -->
+                <section class="py-5">
+                    <div class="container">
+                        <div class="row g-4">
+                            <div class="col-lg-3 col-md-6">
+                                <div class="stats-box">
+                                    <div class="stats-number">150</div>
+                                    <div class="stats-label">MW Solar Capacity</div>
+                                </div>
+                            </div>
+                            <div class="col-lg-3 col-md-6">
+                                <div class="stats-box">
+                                    <div class="stats-number">80</div>
+                                    <div class="stats-label">MW Wind Capacity</div>
+                                </div>
+                            </div>
+                            <div class="col-lg-3 col-md-6">
+                                <div class="stats-box">
+                                    <div class="stats-number">20</div>
+                                    <div class="stats-label">TPD Biogas Plant</div>
+                                </div>
+                            </div>
+                            <div class="col-lg-3 col-md-6">
+                                <div class="stats-box">
+                                    <div class="stats-number">3,500+</div>
+                                    <div class="stats-label">Jobs Created</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+
+                <!-- Goals Section -->
+                <section class="goals-section">
+                    <div class="container">
+                        <div class="text-center mb-5">
+                            <h2 class="section-title display-5">STRATEGIC GOALS</h2>
+                            <p class="lead text-muted">Six pillars driving our renewable energy revolution</p>
+                        </div>
+
+                        <div class="row g-4">
+                            <div class="col-lg-6 d-flex flex-column">
+                                <div class="goal-item d-flex mb-3">
+                                    <span class="goal-number">1</span>
+                                    <div class="goal-content flex-fill ms-3">
+                                        <h5 class="goal-title">Green Energy Generation</h5>
+                                        <ul class="bullet-list list-unstyled ms-2">
+                                            <li>Commission 150 MW solar, 80 MW wind, and 20 TPD biogas facility</li>
+                                            <li>Ensure reliable, efficient, and environmentally responsible power supply</li>
+                                        </ul>
+                                    </div>
+                                </div>
+
+                                <div class="goal-item d-flex mb-3">
+                                    <span class="goal-number">3</span>
+                                    <div class="goal-content flex-fill ms-3">
+                                        <h5 class="goal-title">Sustainable Agriculture & Biomass</h5>
+                                        <ul class="bullet-list list-unstyled ms-2">
+                                            <li>Cultivate Napier grass and energy crops on project and contract-farming land</li>
+                                            <li>Implement Buy-Back Assurance Scheme for guaranteed biomass procurement</li>
+                                        </ul>
+                                    </div>
+                                </div>
+
+                                <div class="goal-item d-flex mb-3">
+                                    <span class="goal-number">5</span>
+                                    <div class="goal-content flex-fill ms-3">
+                                        <h5 class="goal-title">Rural Development & Employment</h5>
+                                        <ul class="bullet-list list-unstyled ms-2">
+                                            <li>Create 1,000+ direct and 2,500+ indirect jobs</li>
+                                            <li>Increase farmer income through biomass purchase agreements</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="col-lg-6 d-flex flex-column">
+                                <div class="goal-item d-flex mb-3">
+                                    <span class="goal-number">2</span>
+                                    <div class="goal-content flex-fill ms-3">
+                                        <h5 class="goal-title">Technology & Innovation</h5>
+                                        <ul class="bullet-list list-unstyled ms-2">
+                                            <li>Deploy automation, AI-based monitoring, and smart-grid integration</li>
+                                            <li>Maintain high performance ratios and &gt;95% operational uptime</li>
+                                        </ul>
+                                    </div>
+                                </div>
+
+                                <div class="goal-item d-flex mb-3">
+                                    <span class="goal-number">4</span>
+                                    <div class="goal-content flex-fill ms-3">
+                                        <h5 class="goal-title">Economic & Financial Growth</h5>
+                                        <ul class="bullet-list list-unstyled ms-2">
+                                            <li>Build scalable model with strong IRR, NPV, and DSCR</li>
+                                            <li>Expand hybrid energy and biomass model to multiple states</li>
+                                        </ul>
+                                    </div>
+                                </div>
+
+                                <div class="goal-item d-flex mb-3">
+                                    <span class="goal-number">6</span>
+                                    <div class="goal-content flex-fill ms-3">
+                                        <h5 class="goal-title">Environmental Stewardship</h5>
+                                        <ul class="bullet-list list-unstyled ms-2">
+                                            <li>Reduce carbon emissions through integrated renewable solutions</li>
+                                            <li>Promote soil health, water conservation, and responsible land management</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </section>
 
 
 
@@ -295,7 +329,7 @@
 
 
 
-            <!-- <div class="vsn-profile-showcase">
+                <!-- <div class="vsn-profile-showcase">
                 <div class="vsn-profile-header">
                     <h2 class="vsn-doctor-name">Dr. V. V. S. N (promoter)</h2>
                     <p class="vsn-tagline">Extraordinary Global Leader | Sustainability Champion | Innovation Pioneer</p>
@@ -453,14 +487,14 @@
                     </div>
                 </div>
             </div> -->
+            </div>
         </div>
     </div>
-</div>
 
 
 
 
-<!-- <section id="gallery" class="gallery-section">
+    <!-- <section id="gallery" class="gallery-section">
     <div class="container">
         <div class="text-center mb-5">
             <h2 class="section-title">Gallery</h2>
@@ -520,7 +554,7 @@
 </section> -->
 
 
-<!-- <section>
+    <!-- <section>
 
     <div class="gallery-section">
         <div class="container-fluid">
@@ -865,7 +899,7 @@
 
 
 
-<!-- <section id="contact" class="contact-section">
+    <!-- <section id="contact" class="contact-section">
     <div class="container">
         <div class="text-center mb-5">
             <h2 class="section-title">Contact Us</h2>
@@ -928,4 +962,4 @@
 </section> -->
 
 
-<?php include 'footer.php';  ?>
+    <?php include 'footer.php';  ?>

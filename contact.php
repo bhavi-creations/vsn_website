@@ -313,17 +313,17 @@
                 </div>
                 <div class="col-lg-7">
                     <div class="contact-form">
-                        <form>
+                        <form  action="contactform.php" method="post" role="form" class="php-email-form">
                             <div class="row">
                                 <div class="col-md-6">
-                                    <input type="text" class="form-control" placeholder="Your Name" required>
+                                    <input type="text" class="form-control" name="contactname" placeholder="Your Name" required>
                                 </div>
                                 <div class="col-md-6">
-                                    <input type="email" class="form-control" placeholder="Your Email" required>
+                                    <input type="Number" class="form-control" name="contactnumber" placeholder="Your Number" required>
                                 </div>
                             </div>
-                            <input type="text" class="form-control" placeholder="Subject" required>
-                            <textarea class="form-control" rows="5" placeholder="Your Message" required></textarea>
+                            <input type="text" class="form-control" name="contactsubject" placeholder="Subject" required>
+                            <textarea class="form-control" rows="5" name="contactmessage" placeholder="Your Message" required></textarea>
                             <button type="submit" class="btn btn-custom w-100">Send Message</button>
                         </form>
                     </div>
