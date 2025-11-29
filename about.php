@@ -35,7 +35,7 @@
         <!-- Academic Excellence -->
         <div class="row mb-5">
             <div class="col-lg-12">
-                <h2 class="dr-vvvsn-section-heading">About The Promoter</h2>
+                <h2 class="dr-vvvsn-section-heading d-flex justify-content-center">About The Promoter</h2>
             </div>
             <div class="col-lg-6 mb-4">
                 <div class="dr-vvvsn-content-card">
@@ -43,7 +43,7 @@
                         <div class="dr-vvvsn-icon-container me-2">
                             <i class="fas fa-graduation-cap"></i>
                         </div>
-                        <h4 class="text-color-about mb-0">Exceptional Qualifications</h4>
+                        <h4 class="text-color-about mb-0" >Exceptional Qualifications</h4>
                     </div>
 
                     <p class="mb-3">Dr. V. V. V. S. N holds an impressive academic portfolio that sets him apart in
@@ -63,7 +63,7 @@
                         <div class="dr-vvvsn-icon-container me-2">
                             <i class="fas fa-globe-americas"></i>
                         </div>
-                        <h4 class="text-color-about mb-0">Global Impact</h4>
+                        <h4 class="text-color-about mb-0 d-">Global Impact</h4>
                     </div>
 
                     <p class="mb-3">Dr. V. V. V. S. N expertise across multiple continents, shaping projects and initiatives worldwide.</p>
@@ -74,7 +74,7 @@
 
 
 
-                    <div class="d-flex flex-nowrap justify-content-center align-items-center gap-2">
+                    <div class="d-flex flex-nowrap justify-content-center align-items-center gap-2 d-none d-md-block">
                         <span class="dr-vvvsn-location-badge"><i class="fas fa-map-marker-alt me-1"></i> India</span>
                         <span class="dr-vvvsn-location-badge"><i class="fas fa-map-marker-alt me-1"></i> USA</span>
                         <span class="dr-vvvsn-location-badge"><i class="fas fa-map-marker-alt me-1"></i> UK</span>
@@ -82,6 +82,15 @@
                         <span class="dr-vvvsn-location-badge"><i class="fas fa-map-marker-alt me-1"></i> Australia</span>
                     </div>
 
+
+
+                                  <div class=" align-items-center gap-2 d-block d-md-none">
+                        <span class="dr-vvvsn-location-badge"><i class="fas fa-map-marker-alt me-1"></i> India</span>
+                        <span class="dr-vvvsn-location-badge"><i class="fas fa-map-marker-alt me-1"></i> USA</span>
+                        <span class="dr-vvvsn-location-badge"><i class="fas fa-map-marker-alt me-1"></i> UK</span>
+                        <span class="dr-vvvsn-location-badge"><i class="fas fa-map-marker-alt me-1"></i> Canada</span>
+                        <span class="dr-vvvsn-location-badge"><i class="fas fa-map-marker-alt me-1"></i> Australia</span>
+                    </div>
                 </div>
            
 
@@ -98,19 +107,17 @@
                     <!-- <p class="mb-4">Exceptional leadership across <strong></strong> in global mega
                         projects spanning multiple critical sectors:</p> -->
                     <div class="text-center">
-                        <span class="dr-vvvsn-skill-tag"><i class="fas fa-bolt me-2"></i>Power Generation</span>
-                        <span class="dr-vvvsn-skill-tag"><i class="fas fa-umbrella-beach me-2"></i>Tourism
-                            Development</span>
-                        <span class="dr-vvvsn-skill-tag"><i class="fas fa-island-tropical me-2"></i>Island
-                            Development</span>
-                        <span class="dr-vvvsn-skill-tag"><i class="fas fa-building me-2"></i>Real Estate & Mega
-                            Constructions</span>
-                        <span class="dr-vvvsn-skill-tag"><i class="fas fa-oil-can me-2"></i>Oil & Gas</span>
-                        <span class="dr-vvvsn-skill-tag"><i class="fas fa-atom me-2"></i>Nuclear Power</span>
-                        <span class="dr-vvvsn-skill-tag"><i class="fas fa-leaf me-2"></i>Sustainable
-                            Development</span>
-                        <span class="dr-vvvsn-skill-tag"><i class="fas fa-lightbulb me-2"></i>Innovation</span>
-                    </div>
+    <div class="d-flex flex-wrap justify-content-center gap-2 ">
+        <span class="dr-vvvsn-skill-tag"><i class="fas fa-bolt me-2"></i>Power Generation</span>
+        <span class="dr-vvvsn-skill-tag"><i class="fas fa-umbrella-beach me-2"></i>Tourism Development</span>
+        <span class="dr-vvvsn-skill-tag"><i class="fas fa-island-tropical me-2"></i>Island Development</span>
+        <span class="dr-vvvsn-skill-tag"><i class="fas fa-building me-2"></i>Real Estate & Mega Constructions</span>
+        <span class="dr-vvvsn-skill-tag"><i class="fas fa-oil-can me-2"></i>Oil & Gas</span>
+        <span class="dr-vvvsn-skill-tag"><i class="fas fa-atom me-2"></i>Nuclear Power</span>
+        <span class="dr-vvvsn-skill-tag"><i class="fas fa-leaf me-2"></i>Sustainable Development</span>
+        <span class="dr-vvvsn-skill-tag"><i class="fas fa-lightbulb me-2"></i>Innovation</span>
+    </div>
+</div>
                 </div>
             </div>
         </div>
@@ -150,11 +157,12 @@
                         <span class="dr-vvvsn-stats-value">20</span>
                         <span class="dr-vvvsn-stats-text">International Excellence Awards</span>
                     </div>
-                    <div class="dr-vvvsn-stats-display flex-fill"
-                        style="background: linear-gradient(135deg, var(--primary-blue), var(--dark-blue));">
-                        <span class="dr-vvvsn-stats-value">25</span>
-                        <span class="dr-vvvsn-stats-text">Outstanding exceptional awards in power companies</span>
-                    </div>
+                    <div class="dr-vvvsn-stats-display d-flex flex-column justify-content-center align-items-center text-center flex-fill"
+     style="background: linear-gradient(135deg, var(--primary-blue), var(--dark-blue)); padding: 30px; border-radius: 12px; color: #fff;">
+    <span class="dr-vvvsn-stats-value" style="font-size: 48px; font-weight: 700;">25</span>
+    <span class="dr-vvvsn-stats-text" style="font-size: 16px; max-width: 250px;">Outstanding exceptional awards in power companies</span>
+</div>
+
                 </div>
             </div>
         </div>

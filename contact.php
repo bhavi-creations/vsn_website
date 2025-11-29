@@ -276,7 +276,7 @@
         <div class="container">
             <div class="text-center mb-5">
                 <h2 class="section-title">Contact Us</h2>
-                <p class="lead mt-4">Get in Touch for Collaboration & Partnership Opportunities</p>
+                <!-- <p class="lead mt-4">Get in Touch for Collaboration & Partnership Opportunities</p> -->
             </div>
           <div class="row g-4 align-items-stretch">
     <!-- Left Column -->
@@ -297,13 +297,13 @@
                     contactus@vsn-corp.com
                 </div>
             </div>
-            <div class="contact-item mt-3 d-flex align-items-start">
+            <!-- <div class="contact-item mt-3 d-flex align-items-start">
                 <i class="fas fa-phone me-3 fs-4"></i>
                 <div>
                     <strong>Phone</strong><br>
                     +971 56 112 3452
                 </div>
-            </div>
+            </div> -->
         </div>
     </div>
 
