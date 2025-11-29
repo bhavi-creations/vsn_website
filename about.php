@@ -38,24 +38,26 @@
                 <h2 class="dr-vvvsn-section-heading d-flex justify-content-center">About The Promoter</h2>
             </div>
             <div class="col-lg-6 mb-4">
-                <div class="dr-vvvsn-content-card">
-                    <div class="d-flex align-items-center mb-3">
-                        <div class="dr-vvvsn-icon-container me-2">
-                            <i class="fas fa-graduation-cap"></i>
-                        </div>
-                        <h4 class="text-color-about mb-0" >Exceptional Qualifications</h4>
-                    </div>
-
-                    <p class="mb-3">Dr. V. V. V. S. N holds an impressive academic portfolio that sets him apart in
-                        the global scientific community.</p>
-
-                    <ul class="list-unstyled">
-                        <li class="mb-2"><i class="fas fa-check-circle text-primary me-2"></i>5 Doctoral Degrees</li>
-                        <li class="mb-2"><i class="fas fa-check-circle text-primary me-2"></i>40+ International Higher Qualifications></li>
-                        <li class="mb-2"><i class="fas fa-check-circle text-primary me-2"></i>working at the age of 10 years</li>
-                    </ul>
-                </div>
+    <div class="dr-vvvsn-content-card">
+        <div class="d-flex align-items-center mb-3"> 
+            
+            <div class="dr-vvvsn-icon-container me-2 d-flex align-items-center">
+                <i class="fas fa-graduation-cap"></i>
             </div>
+            
+            <h4 class="text-color-about mb-0" >Exceptional Qualifications</h4> 
+        </div>
+
+        <p class="mb-3">Dr. V. V. V. S. N holds an impressive academic portfolio that sets him apart in
+            the global scientific community.</p>
+
+        <ul class="list-unstyled">
+            <li class="mb-2"><i class="fas fa-check-circle text-primary me-2"></i>5 Doctoral Degrees</li>
+            <li class="mb-2"><i class="fas fa-check-circle text-primary me-2"></i>40+ International Higher Qualifications</li>
+            <li class="mb-2"><i class="fas fa-check-circle text-primary me-2"></i>working at the age of 10 years</li>
+        </ul>
+    </div>
+</div>
 
             <div class="col-lg-6 mb-4">
                 <div class="dr-vvvsn-content-card">
@@ -97,13 +99,13 @@
         </div>
 
         <!-- Expertise Areas -->
-        <div class="row mb-5">
+        <div class="row mb-5 t-5">
             <div class="col-lg-12">
                 <!-- <h2 class="dr-vvvsn-section-heading">Leadership & Expertise</h2> -->
             </div>
             <div class="col-lg-12 mb-4">
                 <div class="dr-vvvsn-content-card">
-                    <h4 class="text-color-about mb-4">Strategic Leadership in Mega Projects-USD 290+ billion</h4>
+                    <h4 class="text-color-about mb-4 d-flex justify-content-center pt-5">Strategic Leadership in Mega Projects-USD 290+ billion</h4>
                     <!-- <p class="mb-4">Exceptional leadership across <strong></strong> in global mega
                         projects spanning multiple critical sectors:</p> -->
                     <div class="text-center">
@@ -179,7 +181,7 @@
                         <div class="icon-box me-2">
                             <i class="fas fa-users"></i>
                         </div>
-                        <h4 class="text-color-about mb-0">Global Professional Network</h4>
+                        <h4 class="text-color-about mb-0 ">Global Professional Network</h4>
                     </div>
                     <!-- <h4 class="text-color-about mb-3">Global Professional Network</h4>
                     <p class="mb-4">Member of <strong>Tweel international professional bodies</strong> across

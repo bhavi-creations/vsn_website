@@ -3,9 +3,10 @@
 
 :root {
     --primary-blue: #0099CC;
+    /* --dark-blue: #515860f4; */
     --dark-blue: #1e3a5f;
     --accent-red: #CC3333;
-    --light-gray: #f8f9fa;
+    --light-gray: #f8f9fa; 
 }
 
 /* Navbar Styles */
@@ -1603,7 +1604,7 @@ footer {
     display: flex;
     align-items: center;
     justify-content: center;
-    margin-bottom: 20px;
+    /* margin-bottom: 20px; */
     color: white;
     font-size: 24px;
 }
@@ -1735,6 +1736,7 @@ footer {
 
 .text-color-about {
     color: var(--primary-blue) !important;
+    margin-top: -20px;
 }
 
 .dr-vvvsn-research-item span {
@@ -2298,4 +2300,11 @@ footer {
 
 
 
-
+.dr-vvvsn-icon-container {
+    /* Ensures the container itself acts as a flexible block */
+    display: flex !important;
+    /* Vertically center the icon inside this container */
+    align-items: center !important; 
+    /* Optionally, set a fixed height to ensure it takes up enough vertical space */
+    /* height: 2rem; /* Adjust this value if needed */
+}
