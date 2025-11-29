@@ -13,7 +13,7 @@
             <div class="col-lg-8">
                 <h1 class=" dr-vvvsn-section-heading">Dr. V. V. V. S. N (promoter)</h1>
                 <p class="lead mb-4"> Global Leader, Visionary Scientist, Strategic Innovator</p>
-                <p class="fs-5">An inspiring force across continents with unparalleled expertise in mega-scale
+                <p class="fs-5">An inspiring force across continents with unparalleled expertise in mega scale
                     global projects, sustainable development, and advanced energy systems.</p>
             </div>
             <div class="col-lg-4 d-flex justify-content-center">
@@ -67,17 +67,23 @@
                     </div>
 
                     <p class="mb-3">Dr. V. V. V. S. N expertise across multiple continents, shaping projects and initiatives worldwide.</p>
-                    <span class="dr-vvvsn-location-badge "><i class="fas fa-map-marker-alt me-1 "></i> UAE - Abu Dhabi (Present)</span>
-                    <div>
+
+                    
+                            <span span class="dr-vvvsn-location-badge"><i class="fas fa-map-marker-alt me-1"></i> UAE - Abu Dhabi (Present)</span>
+                         
+
+
+
+                    <div class="d-flex flex-nowrap justify-content-center align-items-center gap-2">
                         <span class="dr-vvvsn-location-badge"><i class="fas fa-map-marker-alt me-1"></i> India</span>
                         <span class="dr-vvvsn-location-badge"><i class="fas fa-map-marker-alt me-1"></i> USA</span>
                         <span class="dr-vvvsn-location-badge"><i class="fas fa-map-marker-alt me-1"></i> UK</span>
                         <span class="dr-vvvsn-location-badge"><i class="fas fa-map-marker-alt me-1"></i> Canada</span>
                         <span class="dr-vvvsn-location-badge"><i class="fas fa-map-marker-alt me-1"></i> Australia</span>
-
                     </div>
+
                 </div>
-            </div>
+           
 
         </div>
 
@@ -120,19 +126,19 @@
                     <h5 class="text-primary mb-3"><i class="fas fa-trophy me-2"></i>International Recognition</h5>
                     <div class="dr-vvvsn-award-entry">
                         <strong>Icon of Asia Award for FinTech</strong><br>
-                        <small class="text-muted">Oxford University, UK (2025)</small>
+                        <small class="text-white">Oxford University, UK (2025)</small>
                     </div>
                     <div class="dr-vvvsn-award-entry">
                         <strong>Leadership Award</strong><br>
-                        <small class="text-muted">Harvard University, USA</small>
+                        <small class="text-white">Harvard University, USA</small>
                     </div>
                     <div class="dr-vvvsn-award-entry">
                         <strong>Mahatma Gandhi Global Leadership Award</strong><br>
-                        <small class="text-muted">United Kingdom</small>
+                        <small class="text-white">United Kingdom</small>
                     </div>
                     <div class="dr-vvvsn-award-entry">
                         <strong>Leadership Award</strong><br>
-                        <small class="text-muted">GRA, USA</small>
+                        <small class="text-white">GRA, USA</small>
                     </div>
                 </div>
             </div>
@@ -213,13 +219,13 @@
         </div>
 
         <!-- Publications -->
-        <div class="row mb-5">
+        <!-- <div class="row mb-5">
             <div class="col-lg-12">
-                <!-- <h2 class="dr-vvvsn-section-heading">Publications & Research</h2> -->
+                <h2 class="dr-vvvsn-section-heading">Publications & Research</h2>
             </div>
             <div class="col-lg-6 mb-4">
                 <div class="dr-vvvsn-content-card">
-                    <h5 class="text-primary mb-3"><i class="fas fa-book me-2"></i>Books (Available on Amazon &
+                    <h5 class="text-primary mb-3"><i class="fas fa-book me-2"></i> Promoter Published Books (Available on Amazon &
                         Kindle)</h5>
                     <div class="dr-vvvsn-research-item">
                         <i class="fas fa-book-open text-primary me-2"></i>
@@ -245,7 +251,7 @@
             </div>
             <div class="col-lg-6 mb-4">
                 <div class="dr-vvvsn-content-card">
-                    <h5 class="text-primary mb-3"><i class="fas fa-file-alt me-2"></i>Research Articles</h5>
+                    <h5 class="text-primary mb-3"><i class="fas fa-file-alt me-2"></i> Promoter Published Research Articles</h5>
                     <p class="mb-3">Published in <strong>Google Scholar</strong> and <strong>Scopus</strong> indexed
                         journals:</p>
                     <div class="dr-vvvsn-research-item">
@@ -259,7 +265,55 @@
                     </div>
                 </div>
             </div>
+        </div> -->
+
+
+
+        <div class="row mb-5 d-flex align-items-stretch">
+
+            <div class="col-lg-6 mb-4 d-flex">
+                <div class="dr-vvvsn-content-card flex-fill">
+                    <h5 class="text-primary mb-3"><i class="fas fa-book me-2"></i> Promoter Published Books (Available on Amazon & Kindle)</h5>
+                    <div class="dr-vvvsn-research-item">
+                        <i class="fas fa-book-open text-primary me-2"></i>
+                        <strong>Zero Bureaucracy</strong>
+                    </div>
+                    <div class="dr-vvvsn-research-item">
+                        <i class="fas fa-book-open text-primary me-2"></i>
+                        <strong>Artificial Intelligence in Human Resource</strong>
+                    </div>
+                    <div class="dr-vvvsn-research-item">
+                        <i class="fas fa-book-open text-primary me-2"></i>
+                        <strong>FinTech in Finance</strong>
+                    </div>
+                    <div class="dr-vvvsn-research-item">
+                        <i class="fas fa-book-open text-primary me-2"></i>
+                        <strong>Target Operating Model (TOM) in Project Management</strong>
+                    </div>
+                    <div class="dr-vvvsn-research-item">
+                        <i class="fas fa-book-open text-primary me-2"></i>
+                        <strong>Strategy in Project Management</strong>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-6 mb-4 d-flex">
+                <div class="dr-vvvsn-content-card flex-fill">
+                    <h5 class="text-primary mb-3"><i class="fas fa-file-alt me-2"></i> Promoter Published Research Articles</h5>
+                    <p class="mb-3">Published in <strong>Google Scholar</strong> and <strong>Scopus</strong> indexed journals:</p>
+                    <div class="dr-vvvsn-research-item">
+                        <h6 class="text-color-about mb-2">Technological Transformation of Transactions by FINTECH</h6>
+                        <span class="badge bg-secondary">Scopus Indexed</span>
+                    </div>
+                    <div class="dr-vvvsn-research-item">
+                        <h6 class="text-color-about mb-2">Making the Fintech Powerful by Blending of Efficient Technologies and Fusing into Fintech</h6>
+                        <span class="badge bg-secondary">Google Scholar</span>
+                    </div>
+                </div>
+            </div>
+
         </div>
+
 
         <!-- Legacy Statement -->
         <div class="row">
