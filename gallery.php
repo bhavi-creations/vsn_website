@@ -13,7 +13,7 @@
                     <div class="image-wrapper">
                         <div class="image-placeholder">
                             <!-- <i class="fas fa-trophy placeholder-icon"></i> -->
-                             <img src="./assets/images/1.png" alt="" style="height:700px  !important ">
+                             <img src="./assets/images/1.png" alt="" style="height:700px; width:900px ; !important ">
                         </div>
                         <div class="overlay">
                             <span class="overlay-category">International Recognition</span>

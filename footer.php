@@ -1,9 +1,8 @@
-
 <footer>
     <div class="container">
         <div class="row">
             <div class="col-md-4 mb-4">
-            <img src="./assets/images/VSN_logo.png" alt="VSN Logo" style="width: 300px;" class="footer_logo d-flex flex-direction-column justify-content-center">
+                <img src="./assets/images/VSN_logo.png" alt="VSN Logo" style="width: 300px;" class="footer_logo d-flex flex-direction-column justify-content-center">
 
             </div>
             <div class="col-md-4 mb-4">
@@ -16,17 +15,33 @@
                 </div>
             </div>
             <div class="col-md-4 mb-4">
-            <h5>About VSN</h5>
-            <p class="footer_about_section">Vision for Sustainable Nature is committed to creating a sustainable future through innovative renewable energy solutions and community empowerment.</p>
+                <h5>About VSN</h5>
+                <p class="footer_about_section">Vision for Sustainable Nature is committed to creating a sustainable future through innovative renewable energy solutions and community empowerment.</p>
             </div>
         </div>
         <hr style="border-color: rgba(255,255,255,0.1);">
         <div class="text-center pt-3">
-            <p class="footer_last_section" >&copy; 2025 VSN - Vision for Sustainable Nature. All rights reserved  <a href="https://bhavicreations.com/">Bhavi Creations</a> </p>
+            <p class="footer_last_section">&copy; 2025 VSN - Vision for Sustainable Nature. All rights reserved <a href="https://bhavicreations.com/">Bhavi Creations</a> </p>
         </div>
     </div>
 </footer>
 
+
+
+
+<!-- <a href="https://api.whatsapp.com/send?phone=+971 56 112 3452" style="color: #fff;" class="whatsapp-link"
+    target="_blank">
+    <i class="fab fa-whatsapp"></i>
+
+</a> -->
+
+<a href="https://api.whatsapp.com/send?phone=971561123452"
+    class="whatsapp-link"
+    target="_blank"
+    rel="noopener noreferrer"
+    style="color:#fff; text-decoration:none;">
+    <i class="fab fa-whatsapp"></i> 
+</a>
 
 
 

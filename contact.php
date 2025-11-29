@@ -293,22 +293,22 @@
                             <i class="fas fa-envelope"></i>
                             <div>
                                 <strong>Email</strong><br>
-                                info@vsn-sustainable.com
+                                vsncorp2025@gmail.com
                             </div>
                         </div>
                         <div class="contact-item">
                             <i class="fas fa-phone"></i>
                             <div>
                                 <strong>Phone</strong><br>
-                                +91 XXX XXX XXXX
+                                +971 56 112 3452
                             </div>
                         </div>
-                        <div class="social-links mt-4">
+                        <!-- <div class="social-links mt-4">
                             <a href="#" aria-label="LinkedIn"><i class="fab fa-linkedin"></i></a>
                             <a href="#" aria-label="Twitter"><i class="fab fa-twitter"></i></a>
                             <a href="#" aria-label="Facebook"><i class="fab fa-facebook"></i></a>
                             <a href="#" aria-label="Instagram"><i class="fab fa-instagram"></i></a>
-                        </div>
+                        </div> -->
                     </div>
                 </div>
                 <div class="col-lg-7">
