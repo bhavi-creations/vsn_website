@@ -1,53 +1,144 @@
-<?php include 'header.php' ; ?>
+<?php include 'header.php';?>
+
+
+<!-- Bootstrap CSS -->
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+
 <style>
-    .mySlider { width: 100%; margin: auto; border-radius: 10px; overflow:hidden; }
-    .mySlidesWrap { display:flex; gap:25px; } /* GAP BETWEEN SLIDES */
-    .mySlide { flex:0 0 100%; } /* Full Slide Width */
-    .mySlide img { width:100%;  height: auto; object-fit:cover; border-radius:12px; }
+    .carousel-item img {
+        width: 100%;
+        height: 100vh; /* Full screen height */
+        object-fit: cover; /* Show full image without distortion */
+    }
+
+    @media (max-width: 768px) {
+        .carousel-item img {
+            height: 350px; /* Mobile height */
+        }
+    }
 </style>
 
 
-<div id="mainSlider" class="mySlider slide" data-bs-ride="carousel" data-bs-interval="2500">
-    <div class="mySlidesWrap">
+<div class="video-container mt-5">
+    <video autoplay muted loop  controls  playsinline>
+        <source src="./assets/images/v1.mp4" type="video/mp4">
+    </video>
+</div>
 
-        <div class="mySlide active">
-            <img src="./assets/images/gslider1.jpeg" alt="Slide 1" class="img-fluid" style="height:650px !important;">
+
+<div class="video-container mt-5">
+    <video autoplay muted loop  controls playsinline>
+        <source src="./assets/images/v2.mp4" type="video/mp4">
+    </video>
+</div>
+
+
+
+<div class="video-container mt-5">
+    <video autoplay muted loop   controls  playsinline>
+        <source src="./assets/images/v3.mp4" type="video/mp4">
+    </video>
+</div>
+
+
+
+
+
+
+<div id="heroSlider" class="carousel slide mt-5" data-bs-ride="carousel" data-bs-interval="3000">
+    <div class="carousel-inner">
+
+        <div class="carousel-item active">
+            <img src="assets/images/galley_slider_1.png" alt="Slide 1">
         </div>
 
-        <div class="mySlide">
-        <img src="./assets/images/gslider2.jpeg" alt="Slide 1" class="img-fluid"  style="height:650px !important;">
+        <div class="carousel-item">
+            <img src="assets/images/galley_slider_1.png" alt="Slide 2">
         </div>
 
-        <div class="mySlide">
-        <img src="./assets/images/gslider3.jpeg" alt="Slide 1" class="img-fluid"  style="height:650px !important;">
+        <div class="carousel-item">
+            <img src="assets/images/galley_slider_3.png" alt="Slide 3">
         </div>
 
-        <div class="mySlide">
-        <img src="./assets/images/gslider4.jpeg" alt="Slide 1" class="img-fluid"  style="height:650px !important;">
+        <div class="carousel-item">
+            <img src="assets/images/galley_slider_4.png" alt="Slide 4">
         </div>
 
-
-        <div class="mySlide">
-        <img src="./assets/images/gslider5.jpeg" alt="Slide 1" class="img-fluid"  style="height:650px !important;">
+        <div class="carousel-item">
+            <img src="assets/images/galley_slider_5.png" alt="Slide 5">
         </div>
 
-        <div class="mySlide">
-        <img src="./assets/images/gslider6.jpeg" alt="Slide 1" class="img-fluid" >
+        <div class="carousel-item">
+            <img src="assets/images/galley_slider_6.png" alt="Slide 6">
+        </div>
+
+        <div class="carousel-item">
+            <img src="assets/images/gslider1.jpeg" alt="Slide 7">
+        </div>
+
+        <div class="carousel-item">
+            <img src="assets/images/gslider2.jpeg" alt="Slide 8">
+        </div>
+
+        <div class="carousel-item">
+            <img src="assets/images/gslider3.jpeg" alt="Slide 9">
+        </div>
+
+        <div class="carousel-item">
+            <img src="assets/images/gslider6.jpeg" alt="Slide 10">
         </div>
 
     </div>
 
-    <!-- Controls -->
- 
+    <!-- Previous / Next Controls -->
+    <button class="carousel-control-prev" type="button" data-bs-target="#heroSlider" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon"></span>
+    </button>
+
+    <button class="carousel-control-next" type="button" data-bs-target="#heroSlider" data-bs-slide="next">
+        <span class="carousel-control-next-icon"></span>
+    </button>
 </div>
 
-<!-- BOOTSTRAP JS -->
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
 
-<script>
-    document.querySelector('.mySlidesWrap').classList.add('carousel-inner');
-    document.querySelectorAll('.mySlide').forEach(e => e.classList.add('carousel-item'));
-    document.querySelector('.myPrev').classList.add('carousel-control-prev');
-    document.querySelector('.myNext').classList.add('carousel-control-next');
-</script>
-<?php include 'footer.php' ; ?>
+<!-- 
+<div class="slider">
+    <div class="slides">
+        <img src="./assets/images/galley_slider_1.png" alt="" class="img-fluid">
+        <img src="./assets/images/galley_slider2.png" alt="" class="img-fluid">
+        <img src="./assets/images/galley_slider_3.png" alt="" class="img-fluid">
+        <img src="./assets/images/galley_slider_4.png" alt="" class="img-fluid">
+        <img src="./assets/images/galley_slider_5.png" alt="" class="img-fluid">
+        <img src="./assets/images/galley_slider_6.png" alt="" class="img-fluid">
+        <img src="./assets/images/gallert_1.png" alt="" class="img-fluid">
+        <img src="./assets/images/gallert_2.png" alt="" class="img-fluid">
+        <img src="./assets/images/gallert_3.png" alt="" class="img-fluid">
+        <img src="./assets/images/gallert_6.png" alt="" class="img-fluid">
+    </div>
+</div> -->
+
+<!-- <script>
+    let index = 0;
+
+function autoSlide() {
+    const slides = document.querySelector('.slides');
+    const total = slides.children.length;
+
+    index = (index + 1) % total;
+    slides.style.transform = `translateX(-${index * 100}%)`;
+}
+
+setInterval(autoSlide, 3000);  // 3 seconds
+
+</script> -->
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+
+
+
+
+
+
+
+
+<?php include 'footer.php'; ?>

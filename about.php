@@ -23,7 +23,7 @@
                         <span class="dr-vvvsn-stats-text">Billion USD Projects</span>
                     </div>
                 </div> -->
-                <img src="./assets/images/about.png" alt="" style="border-radius:5px;">
+                <img src="./assets/images/about_img.png" alt="" style="border-radius:5px;">
             </div>
         </div>
     </div>

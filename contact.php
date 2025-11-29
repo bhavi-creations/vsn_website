@@ -293,7 +293,7 @@
                             <i class="fas fa-envelope"></i>
                             <div>
                                 <strong>Email</strong><br>
-                                vsncorp2025@gmail.com
+                                contactus@vsn-corp.com
                             </div>
                         </div>
                         <div class="contact-item">

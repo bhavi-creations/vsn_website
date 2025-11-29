@@ -28,12 +28,12 @@
 
 
 <div class="vsn-hero-wrapper">
-    <div class="vsn-floating-shapes">
+    <!-- <div class="vsn-floating-shapes">
         <div class="vsn-shape-element"></div>
         <div class="vsn-shape-element"></div>
         <div class="vsn-shape-element"></div>
         <div class="vsn-shape-element"></div>
-    </div>
+    </div> -->
 
     <div class="vsn-main-container">
         <div class="container">

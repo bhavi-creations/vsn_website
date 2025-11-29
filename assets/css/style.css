@@ -2207,3 +2207,74 @@ footer {
     border: 0;
 }
 
+
+
+/* cursoel  */
+     .carousel-item {
+        background: #000; /* Good for contain images */
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: auto;  /* Full height on desktop */
+    }
+
+    .carousel-item img {
+        max-width: 100%;
+        max-height: 100%;
+        object-fit: contain; /* FULL IMAGE SHOW, NO CUT */
+    }
+
+    /* Mobile view */
+    /* @media (max-width: 768px) {
+        .carousel-item {
+            height: 380px; 
+        }
+    } */
+
+
+    /* video sectiono  */
+      .video-container {
+        position: relative;
+        width: 100%;
+        /* height: 100vh;  */
+        overflow: hidden;
+        /* background: #000; */
+    }
+
+    .video-container video {
+        width: 100%;
+        height: 100%;
+        object-fit: contain; /* SHOW FULL VIDEO without cutting */
+        /* background: #000; */
+    }
+
+    /* @media (max-width: 768px) {
+        .video-container {
+            height: 350px; 
+        }
+    } */
+
+
+
+
+
+    .slider {
+    width: 100%;
+    height: 400px;         /* మీకు కావాల్సిన height */
+    overflow: hidden;
+    position: relative;
+    background: #000;      /* image small అయితే black background కనిపిస్తుంది */
+}
+
+.slides {
+    display: flex;
+    width: 100%;
+    height: 100%;
+    transition: transform 0.8s ease;
+}
+
+.slides img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;   /* ⭐ FULL IMAGE, ZERO CROPPING */
+}
