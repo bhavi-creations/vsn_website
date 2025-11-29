@@ -48,9 +48,9 @@
 <div id="heroSlider" class="carousel slide mt-5" data-bs-ride="carousel" data-bs-interval="3000">
     <div class="carousel-inner">
 
-        <div class="carousel-item active">
+        <!-- <div class="carousel-item active">
             <img src="assets/images/galley_slider_1.png" alt="Slide 1">
-        </div>
+        </div> -->
 
         <div class="carousel-item">
             <img src="assets/images/galley_slider_1.png" alt="Slide 2">
@@ -60,9 +60,9 @@
             <img src="assets/images/galley_slider_3.png" alt="Slide 3">
         </div>
 
-        <div class="carousel-item">
+        <!-- <div class="carousel-item">
             <img src="assets/images/galley_slider_4.png" alt="Slide 4">
-        </div>
+        </div> -->
 
         <div class="carousel-item">
             <img src="assets/images/galley_slider_5.png" alt="Slide 5">
