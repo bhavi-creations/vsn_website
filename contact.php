@@ -278,57 +278,61 @@
                 <h2 class="section-title">Contact Us</h2>
                 <p class="lead mt-4">Get in Touch for Collaboration & Partnership Opportunities</p>
             </div>
-            <div class="row">
-                <div class="col-lg-5 mb-4">
-                    <div class="contact-info">
-                        <h3>Let's Connect</h3>
-                        <div class="contact-item">
-                            <i class="fas fa-map-marker-alt"></i>
-                            <div>
-                                <strong>Location</strong><br>
-                                Andhra Pradesh, India
-                            </div>
-                        </div>
-                        <div class="contact-item">
-                            <i class="fas fa-envelope"></i>
-                            <div>
-                                <strong>Email</strong><br>
-                                contactus@vsn-corp.com
-                            </div>
-                        </div>
-                        <div class="contact-item">
-                            <i class="fas fa-phone"></i>
-                            <div>
-                                <strong>Phone</strong><br>
-                                +971 56 112 3452
-                            </div>
-                        </div>
-                        <!-- <div class="social-links mt-4">
-                            <a href="#" aria-label="LinkedIn"><i class="fab fa-linkedin"></i></a>
-                            <a href="#" aria-label="Twitter"><i class="fab fa-twitter"></i></a>
-                            <a href="#" aria-label="Facebook"><i class="fab fa-facebook"></i></a>
-                            <a href="#" aria-label="Instagram"><i class="fab fa-instagram"></i></a>
-                        </div> -->
-                    </div>
-                </div>
-                <div class="col-lg-7">
-                    <div class="contact-form">
-                        <form  action="contactform.php" method="post" role="form" class="php-email-form">
-                            <div class="row">
-                                <div class="col-md-6">
-                                    <input type="text" class="form-control" name="contactname" placeholder="Your Name" required>
-                                </div>
-                                <div class="col-md-6">
-                                    <input type="Number" class="form-control" name="contactnumber" placeholder="Your Number" required>
-                                </div>
-                            </div>
-                            <input type="text" class="form-control" name="contactsubject" placeholder="Subject" required>
-                            <textarea class="form-control" rows="5" name="contactmessage" placeholder="Your Message" required></textarea>
-                            <button type="submit" class="btn btn-custom w-100">Send Message</button>
-                        </form>
-                    </div>
+          <div class="row g-4 align-items-stretch">
+    <!-- Left Column -->
+    <div class="col-lg-5">
+        <div class="contact-info h-100 d-flex flex-column justify-content-center p-4 border rounded shadow-sm">
+            <h3>Let's Connect</h3>
+            <div class="contact-item mt-3 d-flex align-items-start">
+                <i class="fas fa-map-marker-alt me-3 fs-4"></i>
+                <div>
+                    <strong>Location</strong><br>
+                    Andhra Pradesh, India
                 </div>
             </div>
+            <div class="contact-item mt-3 d-flex align-items-start">
+                <i class="fas fa-envelope me-3 fs-4"></i>
+                <div>
+                    <strong>Email</strong><br>
+                    contactus@vsn-corp.com
+                </div>
+            </div>
+            <div class="contact-item mt-3 d-flex align-items-start">
+                <i class="fas fa-phone me-3 fs-4"></i>
+                <div>
+                    <strong>Phone</strong><br>
+                    +971 56 112 3452
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Right Column -->
+    <div class="col-lg-7">
+        <div class="contact-form h-100 d-flex flex-column justify-content-center p-4 border rounded shadow-sm">
+            <form action="contactform.php" method="post" class="php-email-form">
+                <div class="row g-3">
+                    <div class="col-md-6">
+                        <input type="text" class="form-control" name="contactname" placeholder="Your Name" required>
+                    </div>
+                    <div class="col-md-6">
+                        <input type="number" class="form-control" name="contactnumber" placeholder="Your Number" required>
+                    </div>
+                </div>
+                <div class="mt-3">
+                    <input type="text" class="form-control" name="contactsubject" placeholder="Subject" required>
+                </div>
+                <div class="mt-3">
+                    <textarea class="form-control" rows="8" name="contactmessage" placeholder="Your Message" required></textarea>
+                </div>
+                <div class="mt-3">
+                    <button type="submit" class="btn btn-primary w-100">Send Message</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
         </div>
     </section>
 

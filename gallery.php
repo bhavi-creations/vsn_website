@@ -6,16 +6,16 @@
 
 <style>
     .carousel-item img {
-        width: 100%;
-        height: 100vh; /* Full screen height */
-        object-fit: cover; /* Show full image without distortion */
+        /* width: 100%; */
+        /* height: 100vh;  */
+        /* object-fit: cover;  */
     }
 
-    @media (max-width: 768px) {
+    /* @media (max-width: 768px) {
         .carousel-item img {
-            height: 350px; /* Mobile height */
+            height: 350px; 
         }
-    }
+    } */
 </style>
 
 
