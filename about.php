@@ -190,37 +190,37 @@
                         <div class="col-md-2 col-4 mb-3">
                             <div class="p-3 bg-light rounded">
                                 <i class="fas fa-flag-usa fa-2x text-primary mb-2"></i>
-                                <p class="mb-0 small fw-bold">USA</p>
+                                <p class="mb-0 small_font_section fw-bold">USA</p>
                             </div>
                         </div>
                         <div class="col-md-2 col-4 mb-3">
                             <div class="p-3 bg-light rounded">
                                 <i class="fas fa-flag fa-2x text-primary mb-2"></i>
-                                <p class="mb-0 small fw-bold">UK</p>
+                                <p class="mb-0 small_font_section fw-bold">UK</p>
                             </div>
                         </div>
                         <div class="col-md-2 col-4 mb-3">
                             <div class="p-3 bg-light rounded">
                                 <i class="fas fa-flag fa-2x text-primary mb-2"></i>
-                                <p class="mb-0 small fw-bold">Canada</p>
+                                <p class="mb-0 small_font_section fw-bold">Canada</p>
                             </div>
                         </div>
                         <div class="col-md-2 col-4 mb-3">
                             <div class="p-3 bg-light rounded">
                                 <i class="fas fa-flag fa-2x text-primary mb-2"></i>
-                                <p class="mb-0 small fw-bold">Singapore</p>
+                                <p class="mb-0 small_font_section fw-bold">Singapore</p>
                             </div>
                         </div>
                         <div class="col-md-2 col-4 mb-3">
                             <div class="p-3 bg-light rounded">
                                 <i class="fas fa-flag fa-2x text-primary mb-2"></i>
-                                <p class="mb-0 small fw-bold">Australia</p>
+                                <p class="mb-0 small_font_section fw-bold">Australia</p>
                             </div>
                         </div>
                         <div class="col-md-2 col-4 mb-3">
                             <div class="p-3 bg-light rounded">
                                 <i class="fas fa-flag fa-2x text-primary mb-2"></i>
-                                <p class="mb-0 small fw-bold">Scotland</p>
+                                <p class="mb-0 small_font_section fw-bold">Scotland</p>
                             </div>
                         </div>
                     </div>

@@ -2313,3 +2313,14 @@ footer {
     /* Optionally, set a fixed height to ensure it takes up enough vertical space */
     /* height: 2rem; /* Adjust this value if needed */
 }
+
+
+.small_font_section{
+    font-size: 12px !important;
+}
+
+@media (max-width:425px) {
+    .small_font_section{
+    font-size: 8px !important;
+}
+}
