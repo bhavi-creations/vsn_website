@@ -193,16 +193,12 @@
         </div> -->
 
         <div class="carousel-item">
-            <img src="assets/images/bg-2.png" alt="Slide 3" class="img-fluid" class="img-fluid ">
+            <img src="assets/images/bg_2.png" alt="Slide 3" class="img-fluid" class="img-fluid ">
             <!-- <img src="assets/images/galley_slider_3.png" alt="Slide 1" class="img-fluid d-block d-xl-none"> -->
 
         </div>
 
-        <div class="carousel-item">
-            <img src="assets/images/bg-3.png" alt="Slide 4" class="img-fluid" class="img-fluid ">
-            <!-- <img src="assets/images/galley_slider_4.png" alt="Slide 1" class="img-fluid d-block d-xl-none"> -->
-
-        </div>
+   
 
         <div class="carousel-item">
             <img src="assets/images/bg-4.png" alt="Slide 5" class="img-fluid" class="img-fluid ">
