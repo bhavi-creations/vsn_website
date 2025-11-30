@@ -71,18 +71,30 @@
                     <p class="mb-3">Dr. V. V. V. S. N expertise across multiple continents, shaping projects and initiatives worldwide.</p>
 
                     
-                            <span span class="dr-vvvsn-location-badge d-flex justify-content-center px-1"><i class="fas fa-map-marker-alt me-1"></i> UAE - Abu Dhabi (Present)</span>
-                         
+                      <!-- Single location for mobile and smaller screens -->
+<span class="dr-vvvsn-location-badge d-flex justify-content-center align-items-center px-1">
+    <i class="fas fa-map-marker-alt me-1"></i> UAE - Abu Dhabi (Present)
+</span>
 
+<!-- Multiple locations for medium and larger screens -->
+<div class="d-flex flex-nowrap justify-content-center align-items-center gap-2 d-none d-md-flex">
+    <span class="dr-vvvsn-location-badge d-flex justify-content-center align-items-center">
+        <i class="fas fa-map-marker-alt me-1"></i> India
+    </span>
+    <span class="dr-vvvsn-location-badge d-flex justify-content-center align-items-center">
+        <i class="fas fa-map-marker-alt me-1"></i> USA
+    </span>
+    <span class="dr-vvvsn-location-badge d-flex justify-content-center align-items-center">
+        <i class="fas fa-map-marker-alt me-1"></i> UK
+    </span>
+    <span class="dr-vvvsn-location-badge d-flex justify-content-center align-items-center">
+        <i class="fas fa-map-marker-alt me-1"></i> Canada
+    </span>
+    <span class="dr-vvvsn-location-badge d-flex justify-content-center align-items-center">
+        <i class="fas fa-map-marker-alt me-1"></i> Australia
+    </span>
+</div>
 
-
-                    <div class="d-flex flex-nowrap justify-content-center align-items-center gap-2 d-none d-md-block">
-                        <span class="dr-vvvsn-location-badge"><i class="fas fa-map-marker-alt me-1"></i> India</span>
-                        <span class="dr-vvvsn-location-badge"><i class="fas fa-map-marker-alt me-1"></i> USA</span>
-                        <span class="dr-vvvsn-location-badge"><i class="fas fa-map-marker-alt me-1"></i> UK</span>
-                        <span class="dr-vvvsn-location-badge"><i class="fas fa-map-marker-alt me-1"></i> Canada</span>
-                        <span class="dr-vvvsn-location-badge"><i class="fas fa-map-marker-alt me-1"></i> Australia</span>
-                    </div>
 
 
 
