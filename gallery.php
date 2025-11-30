@@ -45,11 +45,13 @@
 
 
 
-<div id="heroSlider" class="carousel slide mt-5" data-bs-ride="carousel" data-bs-interval="3000">
+<div id="heroSlider" class="carousel slide mt-5" data-bs-ride="carousel" data-bs-interval="3000" >
     <div class="carousel-inner">
 
         <div class="carousel-item active">
-            <img src="assets/images/galley_slider_1.png" alt="Slide 1">
+            <img src="assets/images/bg-1.png" alt="Slide 1" class="img-fluid">
+            <!-- <img src="assets/images/galley_slider_1.png" alt="Slide 1" class="img-fluid d-block d-xl-none"> -->
+
         </div>
 
         <!-- <div class="carousel-item">
@@ -57,36 +59,53 @@
         </div> -->
 
         <div class="carousel-item">
-            <img src="assets/images/galley_slider_3.png" alt="Slide 3">
+            <img src="assets/images/bg-2.png" alt="Slide 3" class="img-fluid" class="img-fluid ">
+            <!-- <img src="assets/images/galley_slider_3.png" alt="Slide 1" class="img-fluid d-block d-xl-none"> -->
+
         </div>
 
         <div class="carousel-item">
-            <img src="assets/images/galley_slider_4.png" alt="Slide 4">
+            <img src="assets/images/bg-3.png" alt="Slide 4" class="img-fluid" class="img-fluid ">
+            <!-- <img src="assets/images/galley_slider_4.png" alt="Slide 1" class="img-fluid d-block d-xl-none"> -->
+
         </div>
 
         <div class="carousel-item">
-            <img src="assets/images/galley_slider_5.png" alt="Slide 5">
+            <img src="assets/images/bg-4.png" alt="Slide 5" class="img-fluid" class="img-fluid ">
+            <!-- <img src="assets/images/galley_slider_5.png" alt="Slide 1" class="img-fluid d-block d-xl-none"> -->
+
         </div>
 
         <div class="carousel-item">
-            <img src="assets/images/galley_slider_6.png" alt="Slide 6">
+            <img src="assets/images/bg-5.png" alt="Slide 6" class="img-fluid" class="img-fluid ">
+             <!-- <img src="assets/images/galley_slider_6.png" alt="Slide 1" class="img-fluid d-block d-xl-none"> -->
+
         </div>
 
         <div class="carousel-item">
-            <img src="assets/images/gslider1.jpeg" alt="Slide 7">
+            <img src="assets/images/bg-6.png" alt="Slide 7" class="img-fluid" class="img-fluid ">
+                        <!-- <img src="assets/images/galley_slider_7.png" alt="Slide 1" class="img-fluid d-block d-xl-none"> -->
+
         </div>
 
         <div class="carousel-item">
-            <img src="assets/images/gslider2.jpeg" alt="Slide 8">
+            <img src="assets/images/bg-7.png" alt="Slide 8" class="img-fluid" class="img-fluid ">
+                        <!-- <img src="assets/images/galley_slider_8.png" alt="Slide 1" class="img-fluid d-block d-xl-none"> -->
+
+        </div>
+
+        <!-- <div class="carousel-item">
+            <img src="assets/images/gslider3.jpeg" alt="Slide 9" class="img-fluid">
+                        <img src="assets/images/galley_slider_1.png" alt="Slide 1" class="img-fluid d-block d-xl-none">
+
         </div>
 
         <div class="carousel-item">
-            <img src="assets/images/gslider3.jpeg" alt="Slide 9">
-        </div>
 
-        <div class="carousel-item">
-            <img src="assets/images/gslider6.jpeg" alt="Slide 10">
-        </div>
+            <img src="assets/images/gslider6.jpeg" alt="Slide 10" class="img-fluid">
+                        <img src="assets/images/galley_slider_1.png" alt="Slide 1" class="img-fluid d-block d-xl-none">
+
+        </div> -->
 
     </div>
 
@@ -99,6 +118,9 @@
         <span class="carousel-control-next-icon"></span>
     </button>
 </div>
+
+
+
 
 
 <!-- 

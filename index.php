@@ -141,115 +141,151 @@
                         </div>
 
                         <div class="row g-4">
-                            <div class="col-lg-4 col-md-6">
-                                <div class="mission-card d-flex align-items-start">
-                                    <!-- Icon -->
-                                    <div class="mission-icon me-3 flex-shrink-0">
-                                        <i class="fas fa-solar-panel"></i>
+                           <div class="col-lg-4 col-md-6">
+                                <div class="mission-card">
+
+                                    <!-- ICON + HEADING SAME LINE -->
+                                    <div class="d-flex align-items-center mb-2">
+                                        <div class="mission-icon me-2 d-flex justify-content-center align-items-center">
+                                            <i class="fas fa-solar-panel"></i>
+                                        </div>
+
+                                        <h4 class="mb-0">World-Class Energy Assets</h4>
                                     </div>
 
-                                    <!-- Heading and content beside the icon -->
-                                    <div>
-                                        <h4 class="mb-3">World-Class Energy Assets</h4>
-                                        <p>
-                                            Develop and operate 150 MW Solar,
-                                            80 MW Wind, and
-                                            20 TPD Biogas plants with cutting-edge technology.
-                                        </p>
+                                    <!-- PARAGRAPH BELOW -->
+                                    <p class="mb-2">
+                                        Develop and operate 150 MW Solar,
+                                        80 MW Wind, and
+                                        20 TPD Biogas plants with cutting-edge technology.
+                                    </p>
+
+                                </div>
+ 
+
+
+                                </div>
+                            
+
+
+                            
+                                 
+
+
+
+                           <div class="col-lg-4 col-md-6">
+                                <div class="mission-card">
+
+                                    <!-- ICON + HEADING SAME LINE -->
+                                    <div class="d-flex align-items-center mb-2">
+                                        <div class="mission-icon me-2 d-flex justify-content-center align-items-center">
+                                            <i class="fas fa-leaf"></i>
+                                        </div>
+
+                                        <h4 class="mb-0">Agrivoltaics & Biomass</h4>
                                     </div>
+
+                                    <!-- PARAGRAPH BELOW -->
+                                    <p class="mb-2">
+                                        Promote dual land use through agrivoltaics and biomass cultivation,
+                                        maximizing productivity while generating clean energy.
+                                    </p>
+
                                 </div>
                             </div>
 
 
 
                             <div class="col-lg-4 col-md-6">
-                                <div class="mission-card d-flex align-items-start">
-                                    <!-- Icon -->
-                                    <div class="mission-icon me-3 flex-shrink-0">
-                                        <i class="fas fa-leaf"></i>
-                                    </div>
+                            <div class="mission-card">
 
-                                    <!-- Heading and content beside the icon -->
-                                    <div>
-                                        <h4 class="mb-3">Agrivoltaics & Biomass</h4>
-                                        <p>
-                                            Promote dual land use through agrivoltaics and biomass cultivation, maximizing productivity while generating clean energy.
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-
-
-                            <div class="col-lg-4 col-md-6">
-                                <div class="mission-card d-flex align-items-start">
-                                    <!-- Icon -->
-                                    <div class="mission-icon me-3 flex-shrink-0">
+                                <!-- ICON + HEADING SAME LINE -->
+                                <div class="d-flex align-items-center mb-2">
+                                    <div class="mission-icon me-2 d-flex justify-content-center align-items-center">
                                         <i class="fas fa-handshake"></i>
                                     </div>
 
-                                    <!-- Heading and content beside the icon -->
-                                    <div>
-                                        <h4 class="mb-3">Farmer Buy-Back Programme</h4>
-                                        <p>
-                                            Establish assured income for farmers through Napier grass and biomass buy back, ensuring sustainable feedstock supply.
-                                        </p>
-                                    </div>
+                                    <h4 class="mb-0">Farmer Buy-Back Programme</h4>
                                 </div>
+
+                                <!-- PARAGRAPH BELOW -->
+                                <p class="mb-2">
+                                    Establish assured income for farmers through Napier grass and biomass buy-back, 
+                                    ensuring sustainable feedstock supply.
+                                </p>
+
                             </div>
+                        </div>
 
 
-                            <div class="col-lg-4 col-md-6">
-                                <div class="mission-card d-flex align-items-start">
-                                    <!-- Icon -->
-                                    <div class="mission-icon me-3 flex-shrink-0">
-                                        <i class="fas fa-users"></i>
-                                    </div>
 
-                                    <!-- Heading and content beside the icon -->
-                                    <div>
-                                        <h4 class="mb-3">Rural Employment</h4>
-                                        <p>
-                                            Generate large scale rural employment, skill development, and foster inclusive community growth across regions.
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
+                         <div class="col-lg-4 col-md-6">
+    <div class="mission-card">
 
+        <!-- ICON + HEADING SAME LINE -->
+        <div class="d-flex align-items-center mb-2">
+            <div class="mission-icon me-2 d-flex justify-content-center align-items-center">
+                <i class="fas fa-users"></i>
+            </div>
 
-                            <div class="col-lg-4 col-md-6">
-                                <div class="mission-card d-flex align-items-start">
-                                    <!-- Icon -->
-                                    <div class="mission-icon me-3 flex-shrink-0">
-                                        <i class="fas fa-microchip"></i>
-                                    </div>
+            <h4 class="mb-0">Rural Employment</h4>
+        </div>
 
-                                    <!-- Heading and content beside the icon -->
-                                    <div>
-                                        <h4 class="mb-3">Green Technology</h4>
-                                        <p>
-                                            Adopt innovative green technologies, digital automation, and efficient waste to energy solutions for optimal performance.
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
+        <!-- PARAGRAPH BELOW -->
+        <p class="mb-2">
+            Generate large scale rural employment, skill development, and foster inclusive 
+            community growth across regions.
+        </p>
+
+    </div>
+</div>
 
 
-                            <div class="col-lg-4 col-md-6">
-                                <div class="mission-card d-flex align-items-start">
-                                    <!-- Icon -->
-                                    <div class="mission-icon me-3 flex-shrink-0">
-                                        <i class="fas fa-globe-asia"></i>
-                                    </div>
 
-                                    <!-- Heading and content beside the icon -->
-                                    <div>
-                                        <h4 class="mb-3">National Impact</h4>
-                                        <p>
-                                            Contribute to India's clean energy transition, carbon reduction targets, and sustainable development goals.
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
+                          <div class="col-lg-4 col-md-6">
+    <div class="mission-card">
+
+        <!-- ICON + HEADING SAME LINE -->
+        <div class="d-flex align-items-center mb-2">
+            <div class="mission-icon me-2 d-flex justify-content-center align-items-center">
+                <i class="fas fa-microchip"></i>
+            </div>
+
+            <h4 class="mb-0">Green Technology</h4>
+        </div>
+
+        <!-- PARAGRAPH BELOW -->
+        <p class="mb-2">
+            Adopt innovative green technologies, digital automation, and 
+            efficient waste-to-energy solutions for optimal performance.
+        </p>
+
+    </div>
+</div>
+
+
+
+                          <div class="col-lg-4 col-md-6">
+    <div class="mission-card">
+
+        <!-- ICON + HEADING SAME LINE -->
+        <div class="d-flex align-items-center mb-2">
+            <div class="mission-icon me-2 d-flex justify-content-center align-items-center">
+                <i class="fas fa-globe-asia"></i>
+            </div>
+
+            <h4 class="mb-0">National Impact</h4>
+        </div>
+
+        <!-- PARAGRAPH BELOW -->
+        <p class="mb-2">
+            Contribute to India's clean energy transition, carbon reduction targets, 
+            and sustainable development goals.
+        </p>
+
+    </div>
+</div>
+
 
                         </div>
                     </div>

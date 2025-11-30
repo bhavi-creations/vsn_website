@@ -34,10 +34,10 @@
             <!-- Menu -->
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav ms-auto">
-                    <li class="nav-item"><a class="nav-link" href="index.php">Home</a></li>
-                    <li class="nav-item"><a class="nav-link " href="about.php">About Promoter</a></li>
-                    <li class="nav-item"><a class="nav-link" href="gallery.php">Gallery</a></li>
-                    <li class="nav-item"><a class="nav-link" href="contact.php">Contact Us</a></li>
+                    <li class="nav-item"><a class="nav-link" href="index.php" style="color: #0096d6;">Home</a></li>
+                    <li class="nav-item"><a class="nav-link " href="about.php" style="color: #0096d6;">About Promoter</a></li>
+                    <li class="nav-item"><a class="nav-link" href="gallery.php" style="color: #0096d6;">Gallery</a></li>
+                    <li class="nav-item"><a class="nav-link" href="contact.php" style="color: #0096d6;">Contact Us</a></li>
                 </ul>
             </div>
         </div>

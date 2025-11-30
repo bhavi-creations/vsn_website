@@ -38,7 +38,7 @@
                 <h2 class="dr-vvvsn-section-heading d-flex justify-content-center">About The Promoter</h2>
             </div>
             <div class="col-lg-6 mb-4">
-    <div class="dr-vvvsn-content-card">
+    <div class="dr-vvvsn-content-card global_impact_section">
         <div class="d-flex align-items-center mb-3"> 
             
             <div class="dr-vvvsn-icon-container me-2 d-flex align-items-center">
@@ -60,7 +60,7 @@
 </div>
 
             <div class="col-lg-6 mb-4">
-                <div class="dr-vvvsn-content-card">
+                <div class="dr-vvvsn-content-card  global_impact_section ">
                     <div class="d-flex align-items-center mb-3">
                         <div class="dr-vvvsn-icon-container me-2">
                             <i class="fas fa-globe-americas"></i>

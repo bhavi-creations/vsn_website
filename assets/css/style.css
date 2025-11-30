@@ -1520,6 +1520,7 @@ footer {
 
 .mission-card h4 {
     color: var(--primary-blue) !important;
+        margin-top: -16px;
 }
 
 .mission-card {
@@ -2324,3 +2325,22 @@ footer {
     font-size: 8px !important;
 }
 }
+
+.global_impact_section{
+    height: 350px !important;
+}
+
+
+
+@media (min-width: 1800px) {
+    .container, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
+        max-width: 2140px;
+    }
+}
+
+/* content index  */
+
+
+
+
+/* linear-gradient(135deg, #0096d6 0%, #1a237e 100%) */
