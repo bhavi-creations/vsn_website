@@ -17,13 +17,13 @@
 
 </a> -->
 
-<a href="https://api.whatsapp.com/send?phone=971561123452"
+<!-- <a href="https://api.whatsapp.com/send?phone=971561123452"
     class="whatsapp-link"
     target="_blank"
     rel="noopener noreferrer"
     style="color:#fff; text-decoration:none;">
     <i class="fab fa-whatsapp"></i> 
-</a>
+</a> -->
 
 
 

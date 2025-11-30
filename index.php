@@ -315,7 +315,7 @@
                             </div>
                             <div class="col-lg-3 col-md-6">
                                 <div class="stats-box">
-                                    <div class="stats-number">3,500+</div>
+                                    <div class="stats-number">3000+</div>
                                     <div class="stats-label">Jobs Created</div>
                                 </div>
                             </div>
@@ -362,7 +362,7 @@
                                     <div class="goal-content flex-fill ms-3">
                                         <h5 class="goal-title">Rural Development & Employment</h5>
                                         <ul class="bullet-list list-unstyled ms-2">
-                                            <li>Create 1,000+ direct and 2,500+ indirect jobs</li>
+                                            <li>Create 1,000+ direct and 2,000+ indirect jobs</li>
                                             <li>Increase farmer income through biomass purchase agreements</li>
                                         </ul>
                                     </div>

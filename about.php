@@ -11,11 +11,13 @@
     <div class="container dr-vvvsn-hero-wrapper">
         <div class="row align-items-center">
             <div class="col-lg-8">
-                <h1 class=" dr-vvvsn-section-heading">Dr. V. V. V. S. N (promoter)</h1>
+                <h1 class=" dr-vvvsn-section-heading">Dr. V. V. V. S. N (Promoter)</h1>
                 <p class="lead mb-4"> Global Leader, Visionary Scientist, Strategic Innovator</p>
                 <p class="fs-5">An inspiring force across continents with unparalleled expertise in mega scale
-                    global projects, sustainable development, and advanced energy systems.</p>
+                    global projects, including mega projects, Government power sectors , Government tourisms ,  semi government Oil and Gas sustainable development and advanced energy systems.</p>
             </div>
+
+             including  
             <div class="col-lg-4 d-flex justify-content-center">
                 <!-- <div class="text-lg-end">
                     <div class="dr-vvvsn-stats-display">
@@ -54,7 +56,7 @@
         <ul class="list-unstyled">
             <li class="mb-2"><i class="fas fa-check-circle text-primary me-2"></i>5 Doctoral Degrees</li>
             <li class="mb-2"><i class="fas fa-check-circle text-primary me-2"></i>40+ International Higher Qualifications</li>
-            <li class="mb-2"><i class="fas fa-check-circle text-primary me-2"></i>working at the age of 10 years</li>
+            <!-- <li class="mb-2"><i class="fas fa-check-circle text-primary me-2"></i>working at the age of 10 years</li> -->
         </ul>
     </div>
 </div>
@@ -169,13 +171,25 @@
                     <h5 class="text-primary mb-3"><i class="fas fa-award me-2"></i>Additional Achievements</h5>
                     <div class="dr-vvvsn-stats-display mb-3">
                         <span class="dr-vvvsn-stats-value">20</span>
-                        <span class="dr-vvvsn-stats-text">International Excellence Awards</span>
+                        <span class="dr-vvvsn-stats-text">International Excellence Awards in Tourism</span>
                     </div>
-                    <div class="dr-vvvsn-stats-display d-flex flex-column justify-content-center align-items-center text-center flex-fill"
-     style="background: linear-gradient(135deg, var(--primary-blue), var(--dark-blue)); padding: 30px; border-radius: 12px; color: #fff;">
-    <span class="dr-vvvsn-stats-value" style="font-size: 48px; font-weight: 700;">25</span>
-    <span class="dr-vvvsn-stats-text" style="font-size: 16px; max-width: 250px;">Outstanding exceptional awards in power companies</span>
-</div>
+
+
+                    <div class="dr-vvvsn-stats-display mb-3" style="  background: linear-gradient(135deg, var(--primary-blue), var(--dark-blue));">
+                        <span class="dr-vvvsn-stats-value">25</span>
+                        <span class="dr-vvvsn-stats-text">Outstanding exceptional awards in International power companies</span>
+                    </div>
+                    <!-- <div class="dr-vvvsn-stats-display d-flex flex-column justify-content-center align-items-center text-center flex-fill"
+                style="background: linear-gradient(135deg, var(--primary-blue), var(--dark-blue)); padding: 30px; border-radius: 12px; color: #fff;"> 
+                <span class="dr-vvvsn-stats-value" style="font-size: 48px; font-weight: 700;">25</span>
+                <span class="dr-vvvsn-stats-text" style="font-size: 16px; max-width: 250px;">Outstanding exceptional awards in International power companies</span>
+                
+                </div> -->
+
+                <div class="dr-vvvsn-stats-display mb-3" >
+                        <span class="dr-vvvsn-stats-value">10</span>
+                        <span class="dr-vvvsn-stats-text">International Excellence Awards in oil and gas</span>
+                    </div>
 
                 </div>
             </div>
