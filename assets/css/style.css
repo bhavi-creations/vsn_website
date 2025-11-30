@@ -88,6 +88,7 @@ body {
     font-family: 'Poppins', sans-serif;
     overflow-x: hidden;
     color: #a4bcd4 !important;
+    font-size: 20px !important;
 }
 
 .vsn-hero-wrapper {
@@ -603,6 +604,7 @@ body {
 
 .lead {
     color: white !important;
+    font-size: 20px !important;
 
 }
 
@@ -1649,7 +1651,8 @@ footer {
 }
 
 .dr-vvvsn-stats-text {
-    font-size: 0.9rem;
+    /* font-size: 0.9rem; */
+    font-size: 20px;
     opacity: 0.95;
 }
 
@@ -2182,7 +2185,7 @@ footer {
     border-radius: 12px;
     box-shadow: 0 8px 20px rgba(0,0,0,0.1);
     transition: transform 0.3s ease;
-    height: 213px;
+    height: 280px;
 }
 
 .goal-item:hover {
@@ -2361,14 +2364,14 @@ footer {
 
 @media (min-width:992px) and (max-width:1200px) {
     .goal-item {
-        height: 270px !important;
+        height: 340px !important;
     }
 }
 
 
 @media (min-width:375px) and (max-width:480px) {
     .goal-item {
-        height: 330px !important;
+        height: 490px !important;
     }
 }
  
@@ -2377,11 +2380,19 @@ footer {
 
 
 /* highlight */
-   .modal-dialog-centered {
+     .modal-dialog-centered {
         display: flex;
         justify-content: center;
         align-items: center;
         height: 100%;
+    }
+
+    /* Fullscreen modal */
+    .modal-dialog.modal-fullscreen {
+        max-width: 100%;
+        width: 100%;
+        height: 100%;
+        margin: 0;
     }
 
     /* Modal Body: Flexbox layout */
@@ -2389,36 +2400,34 @@ footer {
         display: flex;
         justify-content: center;
         align-items: center;
-        padding: 20px 0; /* Add padding for top and bottom space */
+        padding: 0; /* Remove padding */
+        height: 100%; /* Make the body take full height */
+        background-color: rgba(0, 0, 0, 0.7); /* Dark background to enhance image visibility */
     }
 
-    /* Add space above and below the modal */
-    .modal-dialog {
-        margin-top: 30px; /* Add space from top of screen */
-        margin-bottom: 30px; /* Add space from bottom */
-    }
-
-    /* Dark blue background for the image container */
+    /* Modal Image Container */
     .modal-image-container {
-        padding: 15px;
-        border-radius: 8px;
-        overflow: hidden; /* Ensure the image doesn't overflow the container */
-        width: 100%; /* Ensure it takes up all the available space */
-        max-width: 600px; /* Maximum width for the container */
-        position: relative; /* To position the image smoothly */
+        width: 100%;
+        height: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        position: relative; /* To keep image in center */
     }
 
     /* Blue border and shadow for the image */
     .highlight-image {
+        max-width: 100%;
+        max-height: 100%;
+        object-fit: contain; /* Ensures image maintains aspect ratio */
         border: 5px solid #0096d6; /* Blue border */
         box-shadow: 0 0 15px rgba(0, 0, 255, 0.7); /* Blue shadow */
-        transform: scale(1); /* Initial size */
         transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out, border 0.3s ease-in-out;
     }
 
     /* Hover effect to make the image zoom in */
     .modal-image-container:hover .highlight-image {
-        transform: scale(1.1); /* Zoom in effect */
+        transform: scale(1.05); /* Zoom in effect */
     }
 
     /* Close button position */
