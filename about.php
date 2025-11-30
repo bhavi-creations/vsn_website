@@ -17,7 +17,7 @@
                     global projects, including mega projects, Government power sectors , Government tourisms ,  semi government Oil and Gas sustainable development and advanced energy systems.</p>
             </div>
 
-             including  
+               
             <div class="col-lg-4 d-flex justify-content-center">
                 <!-- <div class="text-lg-end">
                     <div class="dr-vvvsn-stats-display">
@@ -25,7 +25,7 @@
                         <span class="dr-vvvsn-stats-text">Billion USD Projects</span>
                     </div>
                 </div> -->
-                <img src="./assets/images/about_img.png" alt="" style="border-radius:5px;">
+                <img src="./assets/images/about_promoter.png" alt="" style="border-radius:5px;">
             </div>
         </div>
     </div>
