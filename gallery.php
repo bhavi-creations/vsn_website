@@ -42,7 +42,7 @@
           <div class="col-md-4 d-flex justify-content-center mb-4">
             <div class="video-container" style=" width: 100%; overflow: hidden;">
                 <video autoplay muted loop controls playsinline style="height: 100%; width: 100%; object-fit: contain; border-radius: 4px;">
-                    <source src="./assets/images/v2.mp4" type="video/mp4">
+                    <source src="./assets/images/v3.mp4" type="video/mp4">
                 </video>
             </div>
         </div>
