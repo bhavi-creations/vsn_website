@@ -146,7 +146,7 @@
 
                                     <!-- ICON + HEADING SAME LINE -->
                                     <div class="d-flex align-items-center mb-2">
-                                        <div class="mission-icon me-2 d-flex justify-content-center align-items-center">
+                                        <div class="mission-icon-section me-2 d-flex justify-content-center align-items-center">
                                             <i class="fas fa-solar-panel"></i>
                                         </div>
 
@@ -201,7 +201,7 @@
 
                                 <!-- ICON + HEADING SAME LINE -->
                                 <div class="d-flex align-items-center mb-2">
-                                    <div class="mission-icon me-2 d-flex justify-content-center align-items-center">
+                                    <div class="mission-icon-section me-2 d-flex justify-content-center align-items-center">
                                         <i class="fas fa-handshake"></i>
                                     </div>
 
@@ -345,7 +345,8 @@
                                 </div>
 
                                 <div class="goal-item d-flex mb-3">
-                                    <span class="goal-number">3</span>
+                                    <span class="goal-number d-none d-lg-block">3</span>
+                                    <span class="goal-number d-block d-lg-none">2</span>
                                     <div class="goal-content flex-fill ms-3">
                                         <h5 class="goal-title">Sustainable Agriculture & Biomass</h5>
                                         <ul class="bullet-list list-unstyled ms-2">
@@ -356,7 +357,8 @@
                                 </div>
 
                                 <div class="goal-item d-flex mb-3">
-                                    <span class="goal-number">5</span>
+                                    <span class="goal-number d-none d-lg-block">5</span>
+                                    <span class="goal-number d-block d-lg-none">3</span>
                                     <div class="goal-content flex-fill ms-3">
                                         <h5 class="goal-title">Rural Development & Employment</h5>
                                         <ul class="bullet-list list-unstyled ms-2">
@@ -369,7 +371,8 @@
 
                             <div class="col-lg-6 d-flex flex-column">
                                 <div class="goal-item d-flex mb-3">
-                                    <span class="goal-number">2</span>
+                                    <span class="goal-number d-none d-lg-block">2</span>
+                                    <span class="goal-number d-block d-lg-none">4</span>
                                     <div class="goal-content flex-fill ms-3">
                                         <h5 class="goal-title">Technology & Innovation</h5>
                                         <ul class="bullet-list list-unstyled ms-2">
@@ -380,7 +383,8 @@
                                 </div>
 
                                 <div class="goal-item d-flex mb-3">
-                                    <span class="goal-number">4</span>
+                                    <span class="goal-number d-none d-lg-block">4</span>
+                                    <span class="goal-number d-block d-lg-none">5</span>
                                     <div class="goal-content flex-fill ms-3">
                                         <h5 class="goal-title">Economic & Financial Growth</h5>
                                         <ul class="bullet-list list-unstyled ms-2">
