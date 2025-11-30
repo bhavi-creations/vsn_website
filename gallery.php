@@ -18,8 +18,43 @@
     } */
 </style>
 
+<div class="container mt-5 pt-5 ">
+    <!-- First row with two videos -->
+    <div class="row justify-content-center">
+        <div class="col-md-5 d-flex justify-content-center mb-4">
+            <div class="video-container" style=" width: 100%; overflow: hidden;">
+                <video autoplay muted loop controls playsinline style="height: 100%; width: 100%; object-fit: contain; border-radius: 4px;">
+                    <!-- <source src="./assets/images/v3.mp4" type="video/mp4"> -->
+                            <source src="./assets/images/v1.mp4" type="video/mp4">
 
-<div class="video-container mt-5">
+                </video>
+            </div>
+        </div>
+        <div class="col-md-5 d-flex justify-content-center mb-4">
+            <div class="video-container" style=" width: 100%; overflow: hidden;">
+                <video autoplay muted loop controls playsinline style="height: 100%; width: 100%; object-fit: contain; border-radius: 4px;">
+                    <source src="./assets/images/v2.mp4" type="video/mp4">
+                </video>
+            </div>
+        </div>
+    </div>
+
+    <!-- Second row with one centered video -->
+    <div class="row justify-content-center">
+        <div class="col-md-5 d-flex justify-content-center">
+            <div class="video-container" style=" width: 100%; overflow: hidden;">
+                <video autoplay muted loop controls playsinline style="height: 100%; width: 100%; object-fit: contain; border-radius: 4px;">
+                    <source src="./assets/images/v3.mp4" type="video/mp4">
+                </video>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+<!-- <div class="video-container mt-5">
     <video autoplay muted loop  controls  playsinline>
         <source src="./assets/images/v1.mp4" type="video/mp4">
     </video>
@@ -38,7 +73,9 @@
     <video autoplay muted loop   controls  playsinline>
         <source src="./assets/images/v3.mp4" type="video/mp4">
     </video>
-</div>
+</div> -->
+
+
 
 
 
@@ -88,24 +125,26 @@
 
         </div>
 
+        
+
+        <div class="carousel-item">
+            <img src="assets/images/bio_gas_2.png" alt="Slide 9" class="img-fluid">
+                        <!-- <img src="assets/images/galley_slider_1.png" alt="Slide 1" class="img-fluid d-block d-xl-none"> -->
+
+        </div>
+
+        <div class="carousel-item">
+
+            <img src="assets/images/bio gas.png" alt="Slide 10" class="img-fluid">
+                        <!-- <img src="assets/images/galley_slider_1.png" alt="Slide 1" class="img-fluid d-block d-xl-none"> -->
+
+        </div>
+
         <div class="carousel-item">
             <img src="assets/images/bg-7.png" alt="Slide 8" class="img-fluid" class="img-fluid ">
                         <!-- <img src="assets/images/galley_slider_8.png" alt="Slide 1" class="img-fluid d-block d-xl-none"> -->
 
         </div>
-
-        <!-- <div class="carousel-item">
-            <img src="assets/images/gslider3.jpeg" alt="Slide 9" class="img-fluid">
-                        <img src="assets/images/galley_slider_1.png" alt="Slide 1" class="img-fluid d-block d-xl-none">
-
-        </div>
-
-        <div class="carousel-item">
-
-            <img src="assets/images/gslider6.jpeg" alt="Slide 10" class="img-fluid">
-                        <img src="assets/images/galley_slider_1.png" alt="Slide 1" class="img-fluid d-block d-xl-none">
-
-        </div> -->
 
     </div>
 
