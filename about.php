@@ -13,7 +13,7 @@
             <div class="col-lg-8">
                 
                 <h1 class=" dr-vvvsn-section-heading">Dr. V. V. V. S . N (Promoter)</h1>
-                <p class="lead mb-4"> Global Leader, Visionary Scientist, Strategic Innovator - An inspiring force across continents with unparalleled expertise in mega scale
+                <p class="lead_section mb-4"> Global Leader, Visionary Scientist, Strategic Innovator - An inspiring force across continents with unparalleled expertise in mega scale
                     global projects, including mega projects, Government power sectors , Government tourisms , semi government Oil and Gas sustainable development and advanced energy systems.</p>
                 <!-- <p class="fs-5"></p> -->
             </div>
