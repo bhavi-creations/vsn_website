@@ -11,7 +11,7 @@
 
     <link rel="stylesheet" href="./assets/css/style.css">
 
-    <link href="./assets/images/VSN_logo.png" rel="icon" >
+    <link href="./assets/images/favicon.png" rel="icon" >
 
 
 </head>
