@@ -33,7 +33,7 @@
 </section>
 
 <!-- Main Content -->
-<section class="py-5 about_new_section">
+<section class="pb-5 about_new_section">
     <div class="container">
         <!-- Academic Excellence -->
         <div class="row mb-5">
