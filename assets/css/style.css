@@ -2546,5 +2546,13 @@ footer {
 
 
 
+@media (min-width:992px) and (max-width:1200px) {
+    .dr-vvvsn-location-badge {
+       
+        padding: 7px 7px !important;
+     
+    }
+}
+
 
 /* linear-gradient(135deg, #0096d6 0%, #1a237e 100%) */
