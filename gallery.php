@@ -206,11 +206,7 @@
 
         </div>
 
-        <div class="carousel-item">
-            <img src="assets/images/bg-5.png" alt="Slide 6" class="img-fluid" class="img-fluid ">
-             <!-- <img src="assets/images/galley_slider_6.png" alt="Slide 1" class="img-fluid d-block d-xl-none"> -->
-
-        </div>
+     
 
         <div class="carousel-item">
             <img src="assets/images/bg-6.png" alt="Slide 7" class="img-fluid" class="img-fluid ">

@@ -5,6 +5,9 @@
     --primary-blue: #0099CC;
     /* --dark-blue:#54729A ; */
     --dark-blue: #21416b;
+    /* --dark-blue: #4b81c7; */
+    /* --dark-blue: lightblue; */
+    
     /* --dark-blue: #1e3a5f; */
     --accent-red: #CC3333;
     --light-gray: #f8f9fa; 
@@ -93,7 +96,11 @@ body {
 
 .vsn-hero-wrapper {
     position: relative;
-    background: linear-gradient(135deg, #0a1628 0%, var(--dark-blue) 50%, #152a47 100%);
+    background: #6BA3D9 ;
+   
+
+    /* background: linear-gradient(135deg, #5b89ce 0%, var(--dark-blue) 50%, #124ea3 100%); */
+    /* background: linear-gradient(135deg, #0a1628 0%, var(--dark-blue) 50%, #152a47 100%); */
     min-height: 100vh;
     overflow: hidden;
 }
@@ -716,8 +723,8 @@ background-color: #1e3a5f;
 /* Footer */
 footer {
     background: var(--dark-blue);
-    /* color: white; */
-    color: var(--primary-blue) !important;
+    color: white;
+    /* color: var(--primary-blue) !important; */
     /* padding: 40px 0 20px; */
     padding-top: -10px  !important;
     padding-bottom: 20px !important;
@@ -794,9 +801,10 @@ footer {
     font-family: 'Playfair Display', serif;
     font-size: 4rem;
     font-weight: 700;
-    background: linear-gradient(135deg, #4ade80, #22d3ee);
+    color: white !important;
+    /* background: linear-gradient(135deg, #4ade80, #22d3ee);
     -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
+    -webkit-text-fill-color: transparent; */
     background-clip: text;
     margin-bottom: 20px;
 }
@@ -1396,7 +1404,8 @@ footer {
 
 .mission-card {
     /* background: white; */
-    background: rgba(10, 92, 119, 0.267);
+    /* background: rgba(10, 92, 119, 0.267); */
+    background-color:  rgb(39, 71, 105);
     border-radius: 15px;
     padding: 30px;
     box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
@@ -1440,7 +1449,8 @@ footer {
 
 
 .goal-item {
-    background: rgba(255, 255, 255, 0.06);
+    /* background: rgba(255, 255, 255, 0.06); */
+    background-color: rgb(39, 71, 105);
     border-radius: 10px;
     padding: 25px;
     margin-bottom: 20px;
@@ -1450,7 +1460,7 @@ footer {
 }
 
 .goal-item:hover {
-    background: rgb(39, 71, 105);
+    background: rgb(56, 100, 147);
     box-shadow: 0 5px 20px rgba(0, 0, 0, 0.1);
     border-left-color: var(--primary-blue);
 }
@@ -1758,6 +1768,8 @@ footer {
 
 .text-color-about {
     color: var(--primary-blue) !important;
+    font-size: 20px !important;
+    font-weight: 900 !important;
   
 }
 .global_section{
@@ -2447,5 +2459,32 @@ footer {
         transform: scale(1.1); /* Zoom effect on hover inside the modal */
     }
 
+
+    .first_page_home_section{
+        /* background-color: #4b81c7 !important; */
+    }
    
+
+
+
+
+    .dr-vvvsn-research-item {
+        display: flex;
+        align-items: center; 
+        /* margin-bottom: 10px;  */
+    }
+    
+    /* Ensure that the icon is aligned with text on new lines */
+    /* .dr-vvvsn-research-item i {
+        margin-right: 10px; 
+    } */
+    
+    /* Optional: Adding space between each book item */
+    /* .dr-vvvsn-content-card {
+        margin-top: 20px; 
+    } */
+
+
+
+
 /* linear-gradient(135deg, #0096d6 0%, #1a237e 100%) */
