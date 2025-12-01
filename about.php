@@ -11,8 +11,9 @@
     <div class="container dr-vvvsn-hero-wrapper">
         <div class="row align-items-center">
             <div class="col-lg-8">
-                <h1 class=" dr-vvvsn-section-heading">Dr. V. V. V. S. N (Promoter)</h1>
-                <p class="lead mb-4"> Global Leader, Visionary Scientist, Strategic Innovator-An inspiring force across continents with unparalleled expertise in mega scale
+                
+                <h1 class=" dr-vvvsn-section-heading">Dr. V. V. V. S . N (Promoter)</h1>
+                <p class="lead mb-4"> Global Leader, Visionary Scientist, Strategic Innovator - An inspiring force across continents with unparalleled expertise in mega scale
                     global projects, including mega projects, Government power sectors , Government tourisms , semi government Oil and Gas sustainable development and advanced energy systems.</p>
                 <!-- <p class="fs-5"></p> -->
             </div>
@@ -50,7 +51,7 @@
                         <h4 class="text-color-about mb-0">Exceptional Qualifications</h4>
                     </div>
 
-                    <p class="mb-3">Dr. V. V. V. S. N holds an impressive academic portfolio that sets him apart in
+                    <p class="mb-3">Dr. V. V. V. S . N holds an impressive academic portfolio that sets him apart in
                         the global scientific community.</p>
 
                     <ul class="list-unstyled">
@@ -70,7 +71,7 @@
                         <h4 class="text-color-about mb-0 d-">Global Impact</h4>
                     </div>
 
-                    <p class="mb-3">Dr. V. V. V. S. N expertise across multiple continents, shaping projects and initiatives worldwide.</p>
+                    <p class="mb-3">Dr. V. V. V. S . N expertise across multiple continents, shaping projects and initiatives worldwide.</p>
 
 
                     <!-- Single location for mobile and smaller screens -->
@@ -120,15 +121,20 @@
                 <div class="col-lg-12 mb-4">
                     <div class="dr-vvvsn-content-card">
                         <h4 class="text-color-about mb-4 d-flex justify-content-center pt-5">Strategic Leadership in Mega Projects-USD 290+ billion</h4>
-                        <!-- <p class="mb-4">Exceptional leadership across <strong></strong> in global mega
+                        <!-- <p class="mb-4">Exceptional leadership across  in global mega
                         projects spanning multiple critical sectors:</p> -->
                         <div class="text-center">
                             <div class="d-flex flex-wrap justify-content-center gap-2 ">
-                                <span class="dr-vvvsn-skill-tag"><i class="fas fa-bolt me-2"></i>Power Generation</span>
+                                <span class="dr-vvvsn-skill-tag"><i class="fas fa-bolt me-2"></i>Solar Power Generation</span>
                                 <span class="dr-vvvsn-skill-tag"><i class="fas fa-umbrella-beach me-2"></i>Tourism Development</span>
-                                <span class="dr-vvvsn-skill-tag"><i class="fas fa-island-tropical me-2"></i>Island Development</span>
-                                <span class="dr-vvvsn-skill-tag">Real Estate & Mega Constructions</span>
-                                <!-- <span class="dr-vvvsn-skill-tag"><i class="fas fa-building me-2"></i>Real Estate & Mega Constructions</span> -->
+                                <span class="dr-vvvsn-skill-tag">
+                                    <i class="fas fa-water me-2"></i>Island Development
+                                </span>
+
+
+
+
+                                <span class="dr-vvvsn-skill-tag"><i class="fas fa-building me-2"></i>Real Estate & Mega Constructions</span>
                                 <span class="dr-vvvsn-skill-tag"><i class="fas fa-oil-can me-2"></i>Oil & Gas</span>
                                 <span class="dr-vvvsn-skill-tag"><i class="fas fa-atom me-2"></i>Nuclear Power</span>
                                 <span class="dr-vvvsn-skill-tag"><i class="fas fa-leaf me-2"></i>Sustainable Development</span>
@@ -149,19 +155,19 @@
                     <div class="dr-vvvsn-content-card flex-fill d-flex flex-column h-100">
                         <h5 class="text-primary mb-3"><i class="fas fa-trophy me-2"></i>International Recognition</h5>
                         <div class="dr-vvvsn-award-entry">
-                            <strong>Icon of Asia Award for FinTech</strong><br>
+                            Icon of Asia Award for FinTech<br>
                             <small class="text-white">Oxford University, UK (2025)</small>
                         </div>
                         <div class="dr-vvvsn-award-entry">
-                            <strong>Leadership Award</strong><br>
+                            Leadership Award<br>
                             <small class="text-white">Harvard University, USA</small>
                         </div>
                         <div class="dr-vvvsn-award-entry">
-                            <strong>Mahatma Gandhi Global Leadership Award</strong><br>
+                            Mahatma Gandhi Global Leadership Award<br>
                             <small class="text-white">United Kingdom</small>
                         </div>
                         <div class="dr-vvvsn-award-entry">
-                            <strong>Leadership Award</strong><br>
+                            Leadership Award<br>
                             <small class="text-white">GRA, USA</small>
                         </div>
                     </div>
@@ -215,7 +221,7 @@
                             <h4 class="text-color-about mb-0 global_section">Global Professional Network</h4>
                         </div>
                         <!-- <h4 class="text-color-about mb-3">Global Professional Network</h4>
-                    <p class="mb-4">Member of <strong>Tweel international professional bodies</strong> across
+                    <p class="mb-4">Member of Tweel international professional bodies across
                         leading nations:</p> -->
                         <div class="row text-center">
                             <div class="col-md-2 col-4 mb-3">
@@ -270,30 +276,30 @@
                         Kindle)</h5>
                     <div class="dr-vvvsn-research-item">
                         <i class="fas fa-book-open text-primary me-2"></i>
-                        <strong>Zero Bureaucracy</strong>
+                        Zero Bureaucracy
                     </div>
                     <div class="dr-vvvsn-research-item">
                         <i class="fas fa-book-open text-primary me-2"></i>
-                        <strong>Artificial Intelligence in Human Resource</strong>
+                        Artificial Intelligence in Human Resource
                     </div>
                     <div class="dr-vvvsn-research-item">
                         <i class="fas fa-book-open text-primary me-2"></i>
-                        <strong>FinTech in Finance</strong>
+                        FinTech in Finance
                     </div>
                     <div class="dr-vvvsn-research-item">
                         <i class="fas fa-book-open text-primary me-2"></i>
-                        <strong>Target Operating Model (TOM) in Project Management</strong>
+                        Target Operating Model (TOM) in Project Management
                     </div>
                     <div class="dr-vvvsn-research-item">
                         <i class="fas fa-book-open text-primary me-2"></i>
-                        <strong>Strategy in Project Management</strong>
+                        Strategy in Project Management
                     </div>
                 </div>
             </div>
             <div class="col-lg-6 mb-4">
                 <div class="dr-vvvsn-content-card">
                     <h5 class="text-primary mb-3"><i class="fas fa-file-alt me-2"></i> Promoter Published Research Articles</h5>
-                    <p class="mb-3">Published in <strong>Google Scholar</strong> and <strong>Scopus</strong> indexed
+                    <p class="mb-3">Published in Google Scholar and Scopus indexed
                         journals:</p>
                     <div class="dr-vvvsn-research-item">
                         <h6 class="text-color-about mb-2">Technological Transformation of Transactions by FINTECH</h6>
@@ -314,26 +320,30 @@
 
                 <div class="col-lg-6 mb-4 d-flex">
                     <div class="dr-vvvsn-content-card flex-fill">
-                        <h5 class="text-primary mb-3"><i class="fas fa-book me-2"></i> Promoter Published Books (Available on Amazon & Kindle)</h5>
+                        <h5 class="text-primary mb-3 d-flex align-items-center">
+                            <i class="fas fa-book me-2"></i>
+                            <span>Promoter Published Books (Available on Amazon & Kindle)</span>
+                        </h5>
+
                         <div class="dr-vvvsn-research-item">
                             <i class="fas fa-book-open text-primary me-2"></i>
-                            <strong>Zero Bureaucracy</strong>
+                            Zero Bureaucracy
                         </div>
                         <div class="dr-vvvsn-research-item">
                             <i class="fas fa-book-open text-primary me-2"></i>
-                            <strong>Artificial Intelligence in Human Resource</strong>
+                            Artificial Intelligence in Human Resource
                         </div>
                         <div class="dr-vvvsn-research-item">
                             <i class="fas fa-book-open text-primary me-2"></i>
-                            <strong>FinTech in Finance</strong>
+                            FinTech in Finance
                         </div>
                         <div class="dr-vvvsn-research-item">
                             <i class="fas fa-book-open text-primary me-2"></i>
-                            <strong>Target Operating Model (TOM) in Project Management</strong>
+                            Target Operating Model (TOM) in Project Management
                         </div>
                         <div class="dr-vvvsn-research-item">
                             <i class="fas fa-book-open text-primary me-2"></i>
-                            <strong>Strategy in Project Management</strong>
+                            Strategy in Project Management
                         </div>
                     </div>
 
@@ -343,16 +353,22 @@
                     <div class="dr-vvvsn-content-card flex-fill">
                         <h5 class="text-primary mb-3"><i class="fas fa-file-alt me-2"></i> Promoter Published Research Articles</h5>
                         <p class="mb-3">Published in Google Scholar and Scopus indexed journals</p>
+                       
+    
                         <div class="dr-vvvsn-research-item">
-                            <h6 class="text-color-about mb-2">Technological Transformation of Transactions by FINTECH    <span class="badge bg-secondary">Scopus Indexed</span></h6>
-                            
-                          
+                            <!-- <i class="fas fa-book-open text-primary me-2"></i> -->
+                            <h6     class="text-color-about">Technological Transformation of Transactions by FINTECH <span class="badge bg-secondary">Scopus Indexed</span></h6>
+
                         </div>
+
                         <div class="dr-vvvsn-research-item">
-                            <h6 class="text-color-about mb-2">Making the Fintech Powerful by Blending of Efficient Technologies and Fusing into Fintech   <span class="badge bg-secondary">Google Scholar</span></h6>
-                          
+                            <!-- <i class="fas fa-book-open text-primary me-2"></i> -->
+                            <h6 class=" text-color-about">Making the Fintech Powerful by Blending of Efficient Technologies and Fusing into Fintech <span class="badge bg-secondary">Google Scholar</span></h6>
+
                         </div>
                     </div>
+
+                    
                 </div>
 
             </div>
@@ -363,10 +379,10 @@
                 <div class="col-lg-12">
                     <div class="dr-vvvsn-content-card text-center" style="border-left: 4px solid var(--accent-red);">
                         <h3 class="text-color-about  mb-4">A Legacy of Excellence</h3>
-                        <p class="lead mb-0">Dr. V. V. V. S. N stands among the world's most accomplished professionals.
+                        <p class=" lead_section mb-0">Dr. V. V. V. S . N stands among the world's most accomplished professionals.
                             His strategic insights and project expertise have significantly contributed to
-                            <strong>nation building, innovations, sustainable development, and advanced energy
-                                systems</strong> across the globe.
+                            nation building, innovations, sustainable development, and advanced energy
+                            systems across the globe.
                         </p>
                     </div>
                 </div>
